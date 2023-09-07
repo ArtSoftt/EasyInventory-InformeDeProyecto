@@ -106,3 +106,73 @@
 |----------|----------|----------|
 | Row 1    | Cell 2   | Cell 3   | 
 -----
+## CAPITULO 1: INTRODUCCION
+### 1.1. Startup Profile
+####  1.1.1. Descripción de la Startup
+##### ArtSoft es una startup que nació de la necesidad de solucionar el problema de empresas emergentes que se encuentren en el rubro electronico, los cuales no cuentan con un sistema adecuado para poder manejar el inventario de sus productos. De esta forma nació EasyInventory, una aplicación web dirigida a estas tiendas. 
+##### Esta aplicación web brindará una solución  a los problemas que los propietarios presenten con la organización del inventario de cada punto de venta, problemas como la mala gestión de los productos de cada punto, actualizar los productos, introducir nuevos productos, entre otro. Asimismo, podremos presentarle una interfaz sencilla, amigable y facil de usar en la que cualquier propietario de tienda podrá entender y utilizar.
+##### EasyInventory una aplicación web que mejora la organizació de productos, inventario del propietario de tienda, como startup podremos  brindar la mejor experiencia de usuario para cada opción que la aplicación presente .
+#### 1.1.2. Perfiles de Los Integrantes del Equipo
+
+| Integrante                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                 | 
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Paul Kennedin Vega Sayritupac | Hola mi nombre es Paul Vega, soy estudiante de la carrera de Ingeniería de Software mis hobbies son jugar videojuegos, escuchar música y cocinar. Asimismo, los valores que poseo son responsabilidad, solidaridad, empatía y convicción. Tengo toda la pasión y el esfuerzo para realizar este trabajo junto a mis compañeros para poder ser profesionales capacitados y poder estar bien preparados en el ámbito laboral. |
+| Leonardo Taype Fernandez      | Hola me llamo Leonardo. En mis ratos libres me gusta jugar fútbol o preparar postres. Me considero una persona comprometida y responsable. Me gusta aprender y plantearme retos. Estudio la carrera de ingeniería de software, siempre me ha gustado interactuar con la computadora y ahora puedo ser un profesional haciendo lo que me gusta.                                                                              |
+| CEL 2                         | CEL 2                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| CEL 2                         | CEL 2                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Piero Miranda                        |Actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.                                                                                                                                                                                                                                                                                                                                                                                                                      |
+### 1.2. Solution Profile
+#### 1.2.1. Antecedentes y Problematica
+##### What?
+##### Muchos propietarios no cuentan con el sistema adecuado para poder manejar su tienda, ocasionando una mala organizació en su empresa ..
+##### When?
+##### En cada recuento de productos que hacen, mayormente estos datos son inmensos y se debe de tratar con mucho cuidao.
+##### Where?
+##### En lima metropolitana, cada propietario de tienda dedicado al rubro de la venta de componentes electronicos.
+##### Why?
+##### Debido a la falta de una herramienta los propietarios optan por utilizar los recursos que tienen a la mano como : hojas de calculo, donde ingresen todos los productos.
+##### Who?
+##### Propietarios de tienda dedicados a la venta de componentes electronicos que busquen la forma sencilla de manejar la información de su empresa.
+##### How?
+##### Creemos que un producto digital, el cual brinde herramientas para facilitar el manejo de información resolverá este problema de la organización.
+##### How Much?
+##### Segun encuestas realizadas, un gran porcentaje de personas dentro de cada mype realiza un control de inventario, esto quiere decir la gestión de productos siempre sera requeria en cada empresa.
+#### 1.2.2. Lean UX Process 
+#### 1.2.2.1. Lean UX Problem Statements
+##### Hemos observado que muchos propietarios de tienda tienen dificultades a la hora de manejar la información de su empresa. Además, de que estos mismo al estar emergiendo o ser una mype, no cuentan con la información suficiente.
+#### 1.2.2.2. Lean UX Assumptions
+##### **Business Assumptions** 
+##### a) Creemos que nuestros usuarios necesitan una aplicación sencilla de utilizar y eficiente
+##### b) Esta necesidad puede resolverse mediante la herramienta de control de inventario 
+##### c) Nuestros usuarios iniciales serán propietarios de tienda que se encuentren en el rubro de electronica
+##### d) Lo didáctico que puede llegar a ser un control de inventario
+##### e) Obtendremos la mayoría de nuestro clientes mediante publicidad y derivaciones en redes sociales y una buena red de contactos que se encuentren en el mismo rubro
+##### f) Generaremos ingresos a través de de herramientas adicionales para usuarios con una suscripción superior a la basica
+##### g) Nuestro mayor riesgo sera la interfaz, que sea una interfaz acorde a nuestro segmento, dónde el cliente pueda decidir si tiene un diseño agradable
+##### h) Lo resolveremos con pruebas de validación por parte de nuestro segmento objetivo
+##### **User Assuptions**  
+##### **Who is the user** 
+##### Peruanos propietarios del comercio electronico.
+##### **Where does our product fit in their work or life?**  
+##### Nuestro producto encaja en el trabajo de nuestros usuarios
+##### **What problems does our product solve?**  
+##### El problema de una organización inadecuada por parte de nuestro usuarios con sus puntos de venta o tiendas.
+##### **When and how is our product used?**  
+##### Siempre que nuestros usuarios quieran hacer un control de inventario.
+##### **What feature are important?**  
+##### La herramienta de agregar productos, modificar, eliminar y poder descargar un informe detallado de cada inventario del usuario.
+##### **How should our product look and behave?**  
+##### Debe verse amigable, eficaz y sencillo de usar para que la herramienta se tenga que adecuar al usuario.
+#### 1.2.2.3. Lean UX Hypothesis Statements
+##### **Creemos que** una aplicación que brinde la solucion a los problemas de mala organizacion por parte de los propietarios de tienda. **Sabremos que estamos teniendo éxito cuando** el número de usuarios registrados sea cada vez mayor.
+##### **Creemos que brindar una aplicación intuitiva , fácil de usar, amigable, etc. Brindará un mejor confort para el usuario al momento de usar la aplicación. **Sabremos que estamos teniendo éxito** cuando la cantidad de reseñas positivas supere y aumente en comparación a las negativas.
+##### **Creemos que**, si la aplicación tenga buenos filtros con respecto a los productos y la información se brinde de manera rápida, tendremos mayor cantidad de usuarios satisfechos. **Sabremos que nuestra aplicacion** es lo que el usuario esperaba cuando las validaciones resulten favorables.
+#### 1.2.2.4. Lean UX Canvas
+
+##### El Lean UX Canvas es una herramienta visual que se utiliza en la metodología Lean UX para definir la estrategia y el enfoque de diseño del producto o servicio. Esta herramienta se basa en el Modelo de Negocio Canvas y se enfoca en el usuario y en la eficiencia del proceso, en lugar de en la planificación exhaustiva y detallada de la experiencia del usuario.
+![Canva](LeanUXCanva1.png)
+![Canva](LeanUXCanva2.png)
+
+
+### 1.3. Segmento Objetivo
+##### Nosotros nos centramos en un solo segmento objetivo, el cual está conformado por peruanos que sean propietarios de tienda dedicados al rubro de la venta de componentes electrónicos.
