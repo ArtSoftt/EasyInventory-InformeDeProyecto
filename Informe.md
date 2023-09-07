@@ -106,3 +106,18 @@
 |----------|----------|----------|
 | Row 1    | Cell 2   | Cell 3   | 
 -----
+
+
+
+## 2.3 Needfinding 
+##### Luego de identificar cual será nuestro segmento objetivo, hemos realizado entrevistas con las cuales recolectamos información como cualidades y necesidades para nuestro segmento. Estos datos nos ayudaran durante el diseño y desarrollo de nuestro sitio web. Para ello, utilizaremos herramientas como el User Persona, User Task Matrix, User Journey Map, Empathy Map y As Is Scenario Map. Estas herramientas nos permitirán sintetizar toda la información recolectada. 
+
+### 2.3.1 User Persona
+##### El User Persona usa información en base a lo obtenido en las entrevistas realizadas. Nuestro tipo de usuario vendría siendo un comerciante de productos electrónicos, para el cual se encontraron las siguientes características:
+* ##### El usuario requiere una herramienta que le facilite la gestión y administración de su negocio
+* ##### El usuario está dispuesto a adaptarse a nuevas tecnologías y formas de mejorar el negocio.
+* ##### El usuario quiere que su negocio crezca y es conciente de lo que se requiere para conseguirlo
+
+![Canva](UserPersona.png)
+
+
