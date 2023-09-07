@@ -107,6 +107,69 @@
 | Row 1    | Cell 2   | Cell 3   | 
 -----
 
+## 2.2 Entrevistas 
+### 2.2.1 Diseño de Entrevistas 
+#### Preguntas para segmento objetivo: 
+#### Preguntas demograficas:
+* #####  ¿Cuál es su nombre? 
+* ##### ¿Qué edad tiene? 
+* ##### ¿Qué ocupacion tiene?
+* ##### ¿En qué distrito reside?
+#### Preguntas principales:
+* ##### ¿En algún momento tuvo problemas con el inventario de su negocio de componentes electrónicos? ¿Cuál fue el problema? ¿Qué sucedió después?
+* ##### ¿Sigue usando un control de inventario con un cuaderno? Si es que sí, ¿Por qué sigue usando este método?
+* ##### Si usted posee o poseería  un software de sistema de inventario ¿Qué tan eficiente es? ¿Considera que este cumple su trabajo?
+* ##### ¿Conoce algunos casos de negocios con problemas con su sistema de inventario?
+* ##### Por su experiencia ¿Qué aspectos toma en cuenta al momento de escoger su sistema de inventario?
+#### Preguntas sobre el proyeceto: 
+* ##### ¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?
+* ##### ¿Cree que nuestra aplicación solucionara las malas experiencias con su inventario o que lo ayudaría de cierta forma?
+* ##### ¿Qué otras funcionalidades le gustarían que tenga nuestra aplicación?
+
+
+### 2.2.2 Registro de Entrevistas 
+ * ### Entrevista #1:
+ #### - Nombre y apellido:
+ #### - Edad:
+ #### - Distrito: 
+ ####  [Image]
+ #### - Duración: 
+ #### - Descripción: 
+
+* ### Entrevista #2:
+ #### - Nombre y apellido:
+ #### - Edad:
+ #### - Distrito: 
+ ####  [Image]
+ #### - Duración: 
+ #### - Descripción:
+
+ * ### Entrevista #3:
+ #### - Nombre y apellido:
+ #### - Edad:
+ #### - Distrito: 
+ ####  [Image]
+ #### - Duración: 
+ #### - Descripción:
+
+ * ### Entrevista #4:
+ #### - Nombre y apellido:
+ #### - Edad:
+ #### - Distrito: 
+ ####  [Image]
+ #### - Duración: 
+ #### - Descripción:
+
+ * ### Entrevista #5:
+ #### - Nombre y apellido:
+ #### - Edad:
+ #### - Distrito: 
+ ####  [Image]
+ #### - Duración: 
+ #### - Descripción:
+
+
+### 2.2.3 Analisis de Entrevistas 
 
 
 ## 2.3 Needfinding 
