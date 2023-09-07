@@ -133,6 +133,9 @@
 | Ofrecer productos a mejor precio que la competencia | Usually / Medium | 
 
 ###### Las tareas que más frecuencia tienen para nuestro segmento objetivo son las de “Analizar la competencia y buscar la forma de destacar entre ellos” y “Buscar la manera de mejorar los procesos y gestión de sus productos”. Esto se debe a que el usuario estaría más al pendiente de como ofrecer mejores beneficios que la competencia y de cómo sus procesos de gestión ayudarían de cierta manera a conseguir este objetivo. 
+### 2.3.3 User Journey Mapping 
+##### En esta sección se ilustrará la experiencia que tendría el usuario a lo largo del proceso de vinculación con nuestra página web y la solución que se le estaría brindando en relación a su problema con el inventario de productos de su negocio. 
+![Canva](UserJourneyMap.png)
 
 
 
