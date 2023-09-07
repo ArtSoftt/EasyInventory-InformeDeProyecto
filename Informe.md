@@ -137,6 +137,8 @@
 ##### En esta sección se ilustrará la experiencia que tendría el usuario a lo largo del proceso de vinculación con nuestra página web y la solución que se le estaría brindando en relación a su problema con el inventario de productos de su negocio. 
 ![Canva](UserJourneyMap.png)
 
+### 2.3.4 User Empathy Map
+![Canva](UserEmpathyMap.png)
 
 
 
