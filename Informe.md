@@ -120,4 +120,22 @@
 
 ![Canva](UserPersona.png)
 
+### 2.3.2 User Task Matrix
+##### El segmento que se está considerando es el de las empresas relacionadas con la venta de componentes electrónicos:
+
+| Task Matrix |Emprendedor |
+|-------------|------------|
+| |Frecuencia / Importancia| 
+| Analiza la competencia y busque la forma de destacar entre ellos| Always /  High |
+| Llamar la atención del público en distintas redes | Usually / Medium |
+| Buscar una manera de mejorar los procesos y la gestión de sus productos | Always / High |
+| Establecer metas de ventas en un periodo de tiempo | Often / Medium |
+| Ofrecer productos a mejor precio que la competencia | Usually / Medium | 
+
+###### Las tareas que más frecuencia tienen para nuestro segmento objetivo son las de “Analizar la competencia y buscar la forma de destacar entre ellos” y “Buscar la manera de mejorar los procesos y gestión de sus productos”. Esto se debe a que el usuario estaría más al pendiente de como ofrecer mejores beneficios que la competencia y de cómo sus procesos de gestión ayudarían de cierta manera a conseguir este objetivo. 
+
+
+
+
+
 
