@@ -6,6 +6,5 @@ Como definimos anteriormente, nuestra solución se dirigirá principalmente haci
 
  
 
-- Agricultores principiantes, aquellos que quieren tener su propio cultivo y recibir recomendaciones en cuanto al mismo. Por lo general tendrán entre 25 y 35 años. 
+-  Iventario para Principiantes, aquellos que quieren tener su propio sistema de inventario y recibir recomendaciones y guias al momento de realizar su inventario de su rubro. Por lo general tendrán entre 25 y 35 años. 
 
-- Agricultores profesionales, aquellos que desean ganar dinero mientras brindan recomendaciones sobre plantas/cultivos a los principiantes. Por lo general tendrán entre 30 y 40 años. 
