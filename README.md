@@ -820,7 +820,7 @@ node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=8uBQFc3af029shRt-1)
 ### 4.8.1. Database Diagram
 Se utilizó Vertabelo para la realización del diagrama de la base de datos.
 
-![database](/Docs/Capitulo%20IV/4.8.%20Database%20Design/images/database-diagram.png)
+![database](/Docs/Capitulo%20IV/4.8.%20Database%20Design/images/DB-EasyInventory-2023-09-20_22-03.png)
 # Capitulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
