@@ -17,8 +17,8 @@
 
 | Version | Fecha | Autor |   Descripcion de modificacion   |
 |----------|----------|----------|----------|
-| 0.1  | 14/09/23   | SoftArt   | Desarrollo de la Tb1   |
-|1|18/09/23|Brayan Smith|Reorganizacion del documento|
+| 0.1  | 14/09/23   | Paul  | Desarrollo del capitulo I|   |
+|0.2|18/09/23|Brayan Smith|Reorganizacion del documento|
 
 ## Project Report Collaboration Insights 
 
@@ -105,7 +105,8 @@
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones | 
 |---------------------|---------------------|--------------|
-| Row 1               | Cell 2              | Cell 3       | 
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software |  Vega Sayritupac Paul Kennedin <br> __TB1__ <br>* __Remplazar__<br>Morales Quispe Brayan Smith <br> __TB1__ <br>* __Remplazar__<br> Miranda Sinarahua Piero <br> __TB1__ <br>* __Remplazar__<br>Taype Fernandez Leonardo <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br>            | Cell 3       | 
+| Conoce al menos un sector empresarial o dominio de aplicación de oluciones de software | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>* __Remplazar__<br>Morales Quispe Brayan Smith <br> __TB1__ <br>* __Remplazar__<br> Miranda Sinarahua Piero <br> __TB1__ <br>* __Remplazar__<br>Taype Fernandez Leonardo <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br>                   | Cell 3       | 
 -----
 
 # Capitulo I: Introducción
