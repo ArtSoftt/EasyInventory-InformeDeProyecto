@@ -19,6 +19,7 @@
 |----------|----------|----------|----------|
 | 0.1  | 14/09/23   | Paul  | Desarrollo del capitulo I|  
 |0.1  | 14/09/23 | Fabiola | Desarrollo del capitulo II|
+|0.1  | 14/09/23 | Piero | Desarrollo del capitulo II y  III|
 |0.2|18/09/23|Brayan Smith|Reorganizacion del documento|
 
 ## Project Report Collaboration Insights 
