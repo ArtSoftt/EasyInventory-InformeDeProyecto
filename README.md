@@ -1132,7 +1132,7 @@ Github URL:
 |Paul Vega |u20201b333@upc.edu.pe|Paul Vega|
 |Brayan Smith|u20211f984@upc.edu.pe|Brys83|
 |Fabiola Becerra|u20171a518|fabidayanee|
-|-|-|-|
+|Leonardo Taype|u20201e840@upc.edu.pe|Leo2426|
 |-|-|-|
 
 ### 5.1.3. Source Code Style Guide & Conventions
