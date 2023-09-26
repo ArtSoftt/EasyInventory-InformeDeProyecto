@@ -19,8 +19,10 @@
 |----------|----------|----------|----------|
 | 0.1  | 14/09/23   | Paul  | Desarrollo del capitulo I|  
 |0.1  | 14/09/23 | Fabiola | Desarrollo del capitulo II|
+|0.1  | 14/09/23 | Leonardo | Desarrollo del capitulo II: Competidores|
 |0.1  | 14/09/23 | Piero | Desarrollo del capitulo II y  III|
 |0.2|18/09/23|Brayan Smith|Reorganizacion del documento|
+|0.2|26/09/23|Leonardo|Creacion de pantalla user|
 
 ## Project Report Collaboration Insights 
 
@@ -927,7 +929,7 @@ Github URL:
 |Paul Vega |u20201b333@upc.edu.pe|Paul Vega|
 |Brayan Smith|u20211f984@upc.edu.pe|Brys83|
 |Fabiola Becerra|u20171a518|fabidayanee|
-|-|-|-|
+|Leonardo Taype Fernandez|u20201e840@upc.edu.pe|Leo2426|
 |-|-|-|
 
 
