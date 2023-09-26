@@ -141,21 +141,41 @@ EasyInventory una aplicación web que mejora la organizació de productos, inven
  Creemos que un producto digital, el cual brinde herramientas para facilitar el manejo de información resolverá este problema de la organización.
 * __How Much?__
  Segun encuestas realizadas, un gran porcentaje de personas dentro de cada mype realiza un control de inventario, esto quiere decir la gestión de productos siempre sera requeria en cada empresa.
+
+En resumen, en Lima Metropolitana, muchos propietarios de tiendas de componentes electrónicos enfrentan dificultades en la organización de sus empresas debido a la falta de un sistema adecuado de gestión. Esta problemática se manifiesta en la necesidad de realizar recuentos de productos que generan grandes cantidades de datos, los cuales deben ser manejados con cuidado. 
+
+#### Problemática general:
+La problemática general es que muchos propietarios de tiendas dedicadas a la venta de componentes electrónicos en Lima Metropolitana carecen de un sistema adecuado de gestión empresarial. Esto conduce a una mala organización en sus empresas, ya que no cuentan con herramientas eficientes para manejar la información y el inventario de productos.
 ### 1.2.2. Lean UX Process 
 #### 1.2.2.1. Lean UX Problem Statements
  Hemos observado que muchos propietarios de tienda tienen dificultades a la hora de manejar la información de su empresa. Además, de que estos mismo al estar emergiendo o ser una mype, no cuentan con la información suficiente.
 #### 1.2.2.2. Lean UX Assumptions
  **Business Assumptions** 
- a) Creemos que nuestros usuarios necesitan una aplicación sencilla de utilizar y eficiente
- b) Esta necesidad puede resolverse mediante la herramienta de control de inventario 
- c) Nuestros usuarios iniciales serán propietarios de tienda que se encuentren en el rubro de electronica
- d) Lo didáctico que puede llegar a ser un control de inventario
- e) Obtendremos la mayoría de nuestro clientes mediante publicidad y derivaciones en redes sociales y una buena red de contactos que se encuentren en el mismo rubro
- f) Generaremos ingresos a través de de herramientas adicionales para usuarios con una suscripción superior a la basica
- g) Nuestro mayor riesgo sera la interfaz, que sea una interfaz acorde a nuestro segmento, dónde el cliente pueda decidir si tiene un diseño agradable
- h) Lo resolveremos con pruebas de validación por parte de nuestro segmento objetivo
+ a) Creemos que nuestros usuarios necesitan una aplicacion que:
+  
+- Cuente con una interfaz intuitiva y facil de manipular
+
+- Les permita agregar editar y eliminar datos en relacion a sus productos
+
+- Prometa seguridad relacionada con el almacenamiento de sus datos y productos registrados. 
+
+b) Esta necesidad puede resolverse mediante la herramienta de control de inventario virtual
+
+c) Nuestros usuarios iniciales serán propietarios de tienda que se encuentren en el rubro de electrónica
+
+d) El valor #1 que se le ofrece al cliente es lo didáctico que puede llegar a ser la accion de controlar un inventario.
+
+e) Obtendremos la mayoría de nuestro clientes mediante publicidad y derivaciones en redes sociales y una buena red de contactos que se encuentren en el mismo rubro
+
+f) Generaremos ingresos a través de de planes adicionales para usuarios con una suscripción superior a la básica.
+
+g) Nuestro mayor riesgo sera la interfaz, que sea una interfaz acorde a nuestro segmento, dónde el cliente pueda decidir si tiene un diseño agradable
+
+h) Nuestro mayor riesgo sera que la version final del producto no logre satisfacer todas las expectativas del cliente y no cause gran interés en sus negocios. 
+ 
+i) Lo resolveremos con pruebas de validación por parte de nuestro segmento objetivo
  **User Assuptions**  
-#### **Who is the user** 
+#### **Who is the user?** 
  Peruanos propietarios del comercio electronico.
 #### **Where does our product fit in their work or life?**  
  Nuestro producto encaja en el trabajo de nuestros usuarios
@@ -163,19 +183,28 @@ EasyInventory una aplicación web que mejora la organizació de productos, inven
  El problema de una organización inadecuada por parte de nuestro usuarios con sus puntos de venta o tiendas.
 #### **When and how is our product used?**  
  Siempre que nuestros usuarios quieran hacer un control de inventario.
-#### **What feature are important?**  
+#### **What features are important?**  
  La herramienta de agregar productos, modificar, eliminar y poder descargar un informe detallado de cada inventario del usuario.
 #### **How should our product look and behave?**  
  Debe verse amigable, eficaz y sencillo de usar para que la herramienta se tenga que adecuar al usuario.
 #### 1.2.2.3. Lean UX Hypothesis Statements
-**Creemos que** una aplicación que brinde la solucion a los problemas de mala organizacion por parte de los propietarios de tienda. **Sabremos que estamos teniendo éxito cuando** el número de usuarios registrados sea cada vez mayor.
- **Creemos que** brindar una aplicación intuitiva , fácil de usar, amigable, etc. Brindará un mejor confort para el usuario al momento de usar la aplicación. **Sabremos que estamos teniendo éxito** cuando la cantidad de reseñas positivas supere y aumente en comparación a las negativas.
- **Creemos que**, si la aplicación tenga buenos filtros con respecto a los productos y la información se brinde de manera rápida, tendremos mayor cantidad de usuarios satisfechos. **Sabremos que nuestra aplicacion** es lo que el usuario esperaba cuando las validaciones resulten favorables.
+#### Inventario para principiantes:
+
+ **Creemos que**  al desarrollar una interfaz intuitiva , fácil de usar y amigable conseguiremos llamar la artencion de mas personas relacionadas a nuestro segmento objetivo. **Sabremos que hemos tenido exito** cuando el número de usuarios registrados sea 20% mayor cada mes. 
+
+**Creemos que** si la aplicación tiene buenos filtros al momento de registrar los productos y la información se manipule de manera rápida y eficiente, los clientes confiaran mas en nuestra aplicacion al momento de elegir un sistema de inventario. **Sabremos que lo hemos logrado** cuando la cantidad de comentarios y reseñas positivas de nuestra aplicacion aumenten progresivamente. 
+
+**Creemos que** si desarrollamos una aplicacion con un sistema seguro de proteccion de datos y archivos almacenados, entonces los usuarios sentiran mayor confianza en relacion al programa. **Sabremos que hemos tenido exito** cuando veamos que el porcentaje de usuarios con membresias aumente un 10% cada mes. 
 #### 1.2.2.4. Lean UX Canvas
  El Lean UX Canvas es una herramienta visual que se utiliza en la metodología Lean UX para definir la estrategia y el enfoque de diseño del producto o servicio. Esta herramienta se basa en el Modelo de Negocio Canvas y se enfoca en el usuario y en la eficiencia del proceso, en lugar de en la planificación exhaustiva y detallada de la experiencia del usuario.
+
 ![Canva](/Docs/Capitulo%20I/1.2.%20Solution%20Profile/img/LeanUXCanva1.png)
 ![Canva](/Docs/Capitulo%20I/1.2.%20Solution%20Profile/img/LeanUXCanva2.png)
 ## 1.3. Segmentos Objetivos
+Como definimos anteriormente, nuestra solución se dirigirá principalmente hacia un segmento principal, el cual es: 
+
+Hombres y mujeres entre 25 a 60 años que sean dueños de empresas de tecnología, que pertenezcan a clase media o superior y que tengan un interés en el ámbito tecnológico con el fin de ampliar el alcance de su negocio.  
+
 # Capitulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ## Monday
@@ -216,11 +245,14 @@ EasyInventory es una aplicación que ofrece un software de inventarios para el a
 |         |Oportunidades| La creciente demanda de aplicaciones de inventarios y la Creciente popularidad de contabilizar productos con la memoria.|la posibilidad de expandirse a nuevos mercados o de ofrecer nuevas funciones. 
 |          | Amenazas| La competencia de otras aplicaciones similares.| La competencia de otras aplicaciones de inventario y la fluctuación de los precios de software.| La competencia de otras aplicaciones similares.
 ### 2.1.2. Estrategias y tácticas frente a competidores
+* En base al análisis competitivo, hemos logrado identificar que nuestra aplicación se diferencia y resalta entre las demás al ofrecer un servicio más completo que combina características que se pueden encontrar en la competencia, pero con un enfoque en la misión de la empresa. De igual manera, se piensa invertir en estrategias de marketing y publicidad para poder llegar a un alcance que la competencia no ha podido. 
 * Encontrar un diferencial en el mercado que aporte valor a la empresa
 * Aplicar una maniobra envolvente para desmontar a los competidores mediante un ataque sorpresa.
 * Realizar un análisis de la competencia para obtener información sobre sus ofertas, marcas, ventas y enfoques de marketing.
 * Ajustar los precios si se es uno de los mayores proveedores del sector.
 * Investigar y evaluar el nuevo escenario para saber si se necesitan nuevos recursos
+* Seremos un servicio mucho más completo, ofrecemos más funciones que la competencia para el uso de nuestros usuarios. 
+* Nuestro servicio no se basará plenamente en el usuario, sino que realizaremos recomendaciones en base a sus necesidades. 
 
 ## 2.2. Entrevistas  
 ### 2.2.1. Diseño de entrevistas
@@ -292,6 +324,33 @@ __Preguntas sobre el proyecto:__
 
 
 ### 2.2.3. Análisis de entrevistas 
+Después de realizadas las entrevistas, el siguiente paso es la realización del análisis general del segmento objetivo. Para este análisis se evaluará los siguientes puntos objetivos: 
+
+#### Segmento de inventario para principiantes
+
+Rango de edades y edad promedio. 
+
+Dispositivos utilizados con regularidad. 
+
+Aplicaciones que influencias sus decisiones. 
+
+Dueños de empresas de tecnología
+
+Proceso que sigue para escoger servicio de inventario.
+
+Guias realizadas para lograr realizar un inventario.
+
+Tiempo de ahorro al realizar un inventario.
+
+Métodos y criterios actualmente para captar clientes. 
+
+Opinión sobre el uso de plataformas para ayudarlos con su negocio. 
+
+El rango de edades de los conductores se sitúa entre los 29 a 45 años, con un promedio de 37 años. Los entrevistados nos comentan que las plataformas de datos que usan es el excel o lo realizan a mano.
+
+Para acudir a un servicio de software, en su mayoría, se basan en recomendaciones de terceros o por intenert. También, se guían por la reputación local de la empresa, precios y comparativa general con negocios cercanos. Un criterio que se toma en cuenta es la facilidad de entender el sistema debido a que brinda un ahorro de tiempo al usuario y flexibilidad.  Además, indican que lo que más se valora de un sistema es la rápidez, calidad de producto y el entendimiento. 
+
+Actualmente ninguno usa la tecnología para recibir el asesoramiento de uso de un inventario.
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 En este punto mostraremos el user person que desarrollamos a partir de las entrevistas realizadas por nosotros.
@@ -326,35 +385,39 @@ Link a herramienta de desarrollo : https://workspace60176464.xtensio.com/oeuqt4r
 Link a herramienta de desarrollo: https://workspace60176464.xtensio.com/qc44g94c
 ### 2.3.5. As-is Scenario Mapping
 ![As-is](/Docs/Capitulo%20II/2.3.%20Needfinding/img/As-is%20escenario%20mapping.jpg)
+Necesitamos agregar un producto en la base de datos mediante nuestra app web. Uno de los procesos, para un principiante, comienza en buscar una manera rápida de guía de inventario. En el momento que el usuario comienza a pensar, le parece difícil los libros y en internet no especifican bien todos los pasos. Al final del proceso se siente desanimado, pero con energía de seguir realizando el inventario correctamente. Otro de los procesos es buscar la mayoría de las tiendas de libros de inventarios, buscando los pasos. El usuario comienza a pensar que no logrará encontrar todos los pasos que se ven en los libros, por eso se siente desesperado en comenzar a realizar el inventario. Finalmente, las búsquedas que hizo no logró entender algunas palabras o términos encontrados, y empezó a pensar que sería divertido realizarlo por su cuenta de manera mental y enfocado al 100%. Eso lo hizo sentir nervioso por lograr realizar el inventario y no lo realizó bien por falta de tiempo.
+
 
 Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?share_link_id=578504139708
 # Capitulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ![To-be](/Docs/Capitulo%20III/img/To%20be%20Escenario%20Mapping.jpg)
+Necesitamos agregar un producto en la base de datos mediante nuestra app web. Uno de los procesos, para un principiante, comienza con entrar a la aplicación y registrar los datos de usuario. Después, realiza la búsqueda de productos con los requisitos deseados, y al encontrar la categoría, siente una sensación de tranquilidad porque logró realizar el inventario. Un segundo proceso es, mediante la aplicación, realizar cotización de precios, pero el usuario no logró pensar acerca de los registros que serían agotadores. Sin embargo, logró encontrar los productos que necesitaba y se sintió alegre por los productos encontrados a buen precio. Finalmente, se guía paso a paso por la aplicación, pero el usuario no pensó que lograría realizar un inventario en corto tiempo y sin obtener la experiencia. Al finalizar, se sintió feliz porque logró terminar el inventario en un tiempo estimado y no resultó ser difícil.
+
 Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?share_link_id=578504139708
 ## 3.2. User Stories 
 |Epic / Story ID|Título |Descripción|Criterios de aceptación|Relacionado con (Epic ID)|
 |:----|:----|:----|:----|:----|
-|US01|Iniciar sesión con mi cuenta de google.|Como usuario quiero registrarme en la app web con mi cuenta de google para tener un inicio de sesion mas rapido.|Escenario: El usuario se registra en el sitio web con su cuenta de google Given que estoy en la pantalla de registrar usuario When inicie mi sesion de google Then se creará un perfil nuevo con mi información personal|EP01|
-|US02|Agregar un artículo al inventario|Como usuario quiero agregar un artículo a mi inventario para poder llevar control del articulo|Escenario: El usuario se registra en el sitio web Given que estoy en la pantalla de registrar usuario When inicie mi sesion de google Then se creará un perfil nuevo con mi información personal|EP04|
-|US03|Ver las cantidades de cada producto|Como usuario quiero visualizar la cantidad de un determinado artículo para poder tener un conteo de ciertos productos |Escenario: El usuario quiere ver la cantidad de productos.Given que estoy en la sección de inicio When presione en búsqueda and ingrese la visualización de los productos Then el sistema mostrará la cantidad al usuario|EP05|
-|US04|Quitar un artículo del inventario|Como usuario quiero quitar articulo que tengan defectos o estén en desuso para tener tener un inevntario libre de articulos descontinuados|Escenario: El usuario quiere eliminar un producto del inventario Given que estoy en la sección de inicio When presione en búsqueda and ingrese la visualización de los productos Then procedo a eliminar los productos del inventario.|EP04|
-|US05|Ver la información del producto|Como usuario quiero ver la información del producto para poder darle esa informacion al cliente|Escenario: El usuario quiere ver la información de producto del inventario Given que estoy en la sección de inicio When presione en búsqueda and ingrese la visualización de los productos Then el sistema me muestra la información del producto.|EP05|
-|US06|Registro de usuario en plataforma|Como usuario quiero registrarme en la plataforma con mis datos personales para tener una configuracion mas personalizada|Escenario: El usuario se registra en el sitio web Given que estoy en la pantalla de registrar usuario When ingrese mis datos personales, incluyendo correo y contraseña, Then se creará un perfil nuevo con mi información personal|EP01|
-|US07|Suscripción a membresía |Como usuario quiero visualizar las membresías disponibles y ver los beneficios que se ofrecen para saber el plan que contrate|Escenario: El usuario reconoce las membresías ofrecidas Given que me encuentro en el apartado de membresías When dé click en alguna de ellas Then se observará el precio y beneficio que esta ofrece|EP03|
-|US08|Artículos con mayor demanda|Como usuario quiero saber cuales de mis productos son los que tienen mayor demanda para poder hacer un analisis de mercado|Escenario: El usuario observa  la demanda de un artículo Given me encuentro en la pestaña donde observo todos mis productosWhen ingrese a “productos de mayor demanda” Then se observa que productos han sido mayormente vendidos|EP05|
-|US09|Barra de búsqueda|Como usuario quiero una barra de búsqueda que me facilite encontrar algún artículo de mi inventario para una busqueda mas facil y eficiente|Escenario: El usuario usa la barra de búsqueda Given que me encuentro viendo la lista de productos que dispongo When escriba el nombre del artículo en la barra de búsqueda Then se mostrará dicho artículo con la información necesaria|EP05|
-|US10|Actualizar los datos del proveedor de un producto|Como usuario quiero actualizar los datos de contacto de mis proveedores para no perder a estos|Escenario El usuario actualiza los datos de contacto de su proveedor Given que me encuentro en la sección actualizar datos de proveedor When dé click a “actualizar datos de proveedor” Then se mostrará un cuadro para actualizar los datos del proveedor|EP05|
-|US11|Dashboard|Como usuario quiero ver un dashboard en la pantalla principal para ver un resumen de mi negocio ya sea por día, mes o año.|Escenario el usuario ingresa a la aplicación Given que me encuentro en la pantalla principal When dé click a “ingresar” a la aplicación Then se mostrará un dashboard con información de las ventas y compras|EP02|
-|US12|Reporte de Ventas|Como usuario quiero ver un reporte detallado de las ventas de mi negocio en un rango de fecha.|Escenario el usuario obtiene el reporte de ventas Given que me encuentro en la sección de ventas When dé click a “Crear Reporte” Then se generará un excel con información detallada de las ventas en un rango de tiempo.|EP02|
-|US13|Reporte de Compras|Como usuario quiero ver un reporte detallado de las compras de mi negocio en un rango de fecha.|Escenario el usuario obtiene el reporte de compras Given que me encuentro en la sección de compras When dé click a “Crear Reporte” Then se generará un excel con información detallada de las compras en un rango de tiempo.|EP02|
-|US14|Notificación|Como usuario quiero que se me muestre un mensaje de notificación cuando se quite un artículo del inventario para estar mas atento de algun posible error que cometi|Escenario el usuario se encuentra en el sitio web Given qué tiene su inventario registrado When se compre un producto Then se mostrará una notificación en pantalla para que el usuario esté al tanto de la acción.|EP02|
-|US15|registrar una venta|Como usuario quiero registrar una venta |Escenario el usuario ingresa al sitio web Given que se encuentre en la página principal When quiera registrar una venta and selecciona la opción Then el sistema muestra el formulario donde se puede registrar la venta|EP04|
-|US16|Registro de producto con nombre erróneo|Como usuario quiero poder renombrar un producto que haya registrado para corregir algun error al registrar el producto|Escenario el usuario registra un producto con un nombre equivocado Given que el usuario se encuentra en su lista de productos When seleccione el producto deseado Then se mostrará una opción para renombrarlo |EP04|
-|US17|Registro de proveedor |Como usuario quiero registrar un proveedor en la app|Escenario El usuario necesita agregar un proveedor Given se encuentra en la página principal When localice el apartado de proveedor Then el sistema mostrará un formulario para agregar al proveedor|EP04|
-|US18|Información de suscripción |Como usuario quiero disponer de información acerca de mi suscripción. |Escenario El usuario quiere tener información acerca de su suscripción Given que se encuentra en la página principal de la web When el usuario acceda al apartado de suscripción Then se mostrará toda la información relacionada a su suscripción actual, en caso de contar con una.|EP03|
-|US19|Recordar cuenta|Como usuario quiero contar con la opción de que mi cuenta se quede registrada en el navegador para tener un inicio de sesion mas rapido.|Escenario El usuario quiere que su cuenta se quede grabada en el navegador Given que me encuentro en la pantalla de registro When de click a registrar cuenta Then se muestra una opción para mantener la cuenta activa en el navegador.|EP01|
-|US20|Visualización de perfil de usuario|Como usuario quiero disponer un perfil en el cual pueda ver toda la información personal ingresada al momento que me registré para comprobar mi informacion personal se encuentre correcta.|Escenario el usuario desea visualizar su perfil personal Given que me encuentro en la página web When ingrese al apartado de “perfil”Then se mostrará la información proporcionada al momento del registro de usuario. |EP03|
+|US01|Iniciar sesión con mi cuenta de google.|Como usuario quiero registrarme en la app web con mi cuenta de google para facilitar el proceso de registro.|Escenario 1: El usuario se registra en el sitio web con su cuenta de google Given que estoy en la pantalla de registrar usuario When inicie mi sesion de google Then se crea un perfil nuevo con mi información personal. |EP01|
+|US02|Agregar un artículo al inventario|Como usuario quiero agregar un artículo a mi inventario para contar con una lista de todos mis productos. |Escenario:El usuario agrega un producto al inventario  Given que he iniciado sesión y agrego un producto When me vaya a la sección de mis producto Then puedo ver el producto agregado Escenario: El usuario agrega articulos por archivo csv Given que estoy en el home de la aplicacion  When doy "click" y subo mi archivo Then puedo visualizar los productos|EP04|
+|US03|Ver las cantidades de cada producto|Como usuario quiero visualizar la cantidad de un determinado artículo para saber la cantidad total de mis productos. |Escenario: El usuario quiere ver la cantidad de productos.Given que estoy en la sección de inicio When presione en búsqueda and ingrese la visualización de los productos Then el sistema muestra la cantidad al usuario|EP05|
+|US04|Quitar un artículo del inventario|Como usuario quiero quitar articulo que tengan defectos o estén en desuso para mejorar la gestion de mi inventario. |Escenario: El usuario quiere eliminar un producto del inventario Given que estoy en la sección de inicio When presiono en búsqueda and ingrese la visualización de los productos Then procedo a eliminar los productos del inventario.|EP04|
+|US05|Ver la información del producto|Como usuario quiero ver la información del producto para contar con una descripcion de mis articulos. |Escenario: El usuario quiere ver la información de producto del inventario Given que estoy en la sección de inicio When presione en búsqueda and ingrese la visualización de los productos Then el sistema me muestra la información del producto.|EP05|
+|US06|Registro de usuario en plataforma|Como usuario quiero registrarme en la plataforma con mis datos personales para tener un perfil personal con mi informacion |Escenario: El usuario se registra en el sitio web Given que estoy en la pantalla de registrar usuario When ingrese mis datos personales, incluyendo correo y contraseña, Then se crea un perfil nuevo con mi información personal|EP01|
+|US07|Suscripción a membresía |Como usuario quiero visualizar las membresías disponibles y ver los beneficios que se ofrecen para saber si me conviene adquirir una. |Escenario: El usuario reconoce las membresías ofrecidas Given que me encuentro en el apartado de membresías When dé click en alguna de ellas Then se observará el precio y beneficio que esta ofrece|EP03|
+|US08|Artículos con mayor demanda|Como usuario quiero saber cuales de mis productos son los que tienen mayor demanda para saber en que invertir más. |Escenario: El usuario observa  la demanda de un artículo Given me encuentro en la pestaña donde observo todos mis productos When ingrese a “productos de mayor demanda” Then se observa que productos han sido mayormente vendidos|EP05|
+|US09|Barra de búsqueda|Como usuario quiero una barra de búsqueda que me facilite encontrar algún artículo de mi inventario para mejorar la eficiencia de mi busqueda. |Escenario: El usuario usa la barra de búsqueda Given que me encuentro viendo la lista de productos que dispongo When escriba el nombre del artículo en la barra de búsqueda Then se muestra dicho artículo con la información necesaria|EP05|
+|US10|Actualizar los datos del proveedor de un producto|Como usuario quiero actualizar los datos de contacto de mis proveedores para poder evitar problemas de comunicacion. |Escenario El usuario actualiza los datos de contacto de su proveedor Given que me encuentro en la sección actualizar datos de proveedor When dé click a “actualizar datos de proveedor” Then se muestra un cuadro para actualizar los datos del proveedor|EP05|
+|US11|Dashboard|Como usuario quiero ver un dashboard en la pantalla principal para ver un resumen de mi negocio ya sea por día, mes o año.|Escenario el usuario ingresa a la aplicación Given que me encuentro en la pantalla principal When doy click a “ingresar” a la aplicación Then se muestra un dashboard con información de las ventas y compras|EP02|
+|US12|Reporte de Ventas|Como usuario quiero ver un reporte detallado de las ventas de mi negocio en un rango de fecha para estar al tanto de los meses en los cuales se generan mas demanda de productos.|Escenario el usuario obtiene el reporte de ventas Given que me encuentro en la sección de ventas When doy click a “Crear Reporte” Then se genera un excel con información detallada de las ventas en un rango de tiempo.|EP02|
+|US13|Reporte de Compras|Como usuario quiero ver un reporte detallado de las compras de mi negocio en un rango de fecha para saber en que meses se generan mas demanda de productos.|Escenario el usuario obtiene el reporte de compras Given que me encuentro en la sección de compras When doy click a “Crear Reporte” Then se genera un excel con información detallada de las compras en un rango de tiempo.|EP02|
+|US14|Notificación|Como usuario quiero que se me muestre un mensaje de notificación cuando se quite un artículo del inventario para tener mayor control sobre mi inventario.|Escenario el usuario se encuentra en el sitio web Given qué tiene su inventario registrado When se compre un producto Then se muestra una notificación en pantalla para que el usuario esté al tanto de la acción.|EP02|
+|US15|Registrar una venta|Como usuario quiero registrar una venta para facilitar mi proceso de inventario. |Escenario el usuario ingresa al sitio web Given que se encuentre en la página principal When quiera registrar una venta and selecciona la opción Then el sistema muestra el formulario donde se puede registrar la venta|EP04|
+|US16|Registro de producto con nombre erróneo|Como usuario quiero poder renombrar un producto que haya registrado para evitar futuras equivocaciones. |Escenario el usuario registra un producto con un nombre equivocado Given que el usuario se encuentra en su lista de productos When seleccione el producto deseado Then se muestra una opción para renombrarlo |EP04|
+|US17|Registro de proveedor |Como usuario quiero registrar un proveedor en la app para contar con informacion acerca de mis proveedores. |Escenario El usuario necesita agregar un proveedor Given se encuentra en la página principal When localice el apartado de proveedor Then el sistema muestra un formulario para agregar al proveedor|EP04|
+|US18|Información de suscripción |Como usuario quiero disponer de información acerca de mi suscripción para saber que se me ofrece antes de adquirir una. |Escenario El usuario quiere tener información acerca de su suscripción Given que se encuentra en la página principal de la web When el usuario acceda al apartado de suscripción Then se muestra toda la información relacionada a su suscripción actual, en caso de contar con una.|EP03|
+|US19|Recordar cuenta|Como usuario quiero contar con la opción de que mi cuenta se quede registrada en el navegador para no tener que iniciar sesion siempre que ingrese desde el mismo navegador.|Escenario El usuario quiere que su cuenta se quede grabada en el navegador Given que me encuentro en la pantalla de registro When de click a registrar cuenta Then se muestra una opción para mantener la cuenta activa en el navegador.|EP01|
+|US20|Visualización de perfil de usuario|Como usuario quiero disponer un perfil para poder ver toda la información personal ingresada al momento que me registré.|Escenario el usuario desea visualizar su perfil personal Given que me encuentro en la página web When ingrese al apartado de “perfil”Then se muestra la información proporcionada al momento del registro de usuario. |EP03|
 |US21|visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla para poder entrar al landing page de cualquier dispositivo que tenga|Escenario: El visitante acaba de entrar al landing page Given que estoy en el inicio de la página When reduzco el tamaño del navegador Then el landing page se adapta al nuevo tamaño.|Epic|
 |US22|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|Escenario: El visitante acaba de entrar al landing pageGiven que estoy en el inicio de la páginaWhen uso las opciones del encabezado Then me mueve a la sección indicada del landing page.|Epic|
 |US23|Saber sobre los servicios que brindan |Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|Escenario: El visitante quiere ver que servicios brinda Given qué quiero visualizar los servicios brinda la app When presiono el botón servicios en barra de navegación Then quiero que me muestre la sección del landing page.|Epic|
@@ -363,8 +426,17 @@ Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?shar
 |US26|Poder ver el sitio web en inglés y españo|Como visitante que no habla español  quiero poder ver la pagina en ingles para navegar la página con normalidad|Escenario: El visitante quiere ver el landing page en inglés Given qué quiero visualizar el landing page en inglés When presiono el botón ingles en barra de navegación Then el sistema cambia el idioma del landing pangea inglés|Epic|
 |US27|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page.|Escenario: El visitante quiere poder navegar sin errores por el landing page Given qué quiero navegar sin fallas en el landing page When presiono un botón en barra de navegación Then el sistema me muestra la sección del landing page |Epic|
 |US28|Poder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|Escenario: El visitante quiere acceder a las redes sociales de la aplicación.Given qué quiero acceder a las redes sociales por el landing page When presiono el icono de la red social que quiero acceder Then el sistema me manda a la página de la red social|Epic|
+|US29 | Configuración del backend| Como Desarrollador quiero poder editar, agregar, eliminar el inventario de productos de cada cliente para mejorar la gestion de los clientes. | Escenario: Implementación de Seguridad y Autenticación Given que nuestra aplicación quiere mantener los datos seguros When se implementa un sistema de autenticación para cceder a la base de datos Then la aplicación podrá acceder a los datos sensibles de manera segura Escenario: Pruebas de integración y validación Given el backend esta implementado correctamente y quiero validar funciones When se realizan pruebas de integración y validación Then la aplicaión debería estar lista para el lanzamiento| Epic|
+|US30 | Configurar la Base de Datos | Como desarrollador  quiero poder configurar una base de datos para almacenar información que necesito|Escenario: Escritura de la base datos Given se requiere una base datos para almacenar información When querramos guardar la información del usuario o producto  Then la base de datos se implementa para realizar esta acción Escenario: Lectura eficaz y rápida de la base de datos Given que necesito leer la base de datos implementada When quiera mostrar información acerca de un producto o usuario Then la base de datos debería de oriveer datos correctamente|Epic|
+|US31| Integración de API de Correo| Como desarrollador quiero integrar una API de correos para poder enviar a cada cliente un report de información|Escenario: Envio de reportes al cliente Given que la aplicación envia un correo al usuario When se haya cumplido un plazo determinado y necesite información Then la aplicación utiliza el API de correo para enviar el reporte Escenario: Envio de venta al customer Given el usuario necesita enviar la la venta When el customer relicé una venta Then la aplicación utiliza el API de correo para enviar la vente realizada por el usuario|Epic|
+|US32| Funcionalidad de Búsqueda Avanzada| Como desarrollador, quiero implementar la funcionalidad de búsqueda avanzada con filtros para mejorar el proceso de busqueda. | Escenario: Busqueda de producto Given que un usuario quiera buscar un producto When necesite información para concretar una venta Then la aplicación busca dicho producto Escenario: Búsqueda de producto con filtro Given que el usuario seleccione filtros When busque un producto para vizualizar la información Then la aplicación filtra los productos y muestra resultados| Epic|
+|US33|Optimización del rendimiento de la aplicación| Como desarollador, quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida|Escenario: Carga rápida de productos Given que un usuario navega por la lista de sus productos When deplaza hacia abajo o arriba Then la carga de productos y las imagenes deben de ser suaves y sin retrasos visibles Escenario: Carga rápida entre vistas Given que un usuario cambia entre pantallas de manera rápida When navega por la aplicación Then no debe haber problemas de carga o bloqueo |Epic|
+|US34 |Diseño de interfaz de usuario| Como desarrollador quiero diseñar una interfaz de usuario atractiva y fácil de usar para promover experiencia agradable| Escenario: Experiencia en la aplicación Given que un usurario abre la aplicación por primera vez When ve la pantalla de inciio Then debe ser recibido con una interfaz y colores atractivos|Epic|
+|US35| Mantenimiento de la aplicación| Como desarrollador quiero establecer un plan de mantenimiento para asegurar el funcionamiento continuo de la aplicación| Escenario: Experiencia de usuario Given que la aplicación recibe reseñas por los usuarios When se recopilan comentarios y sugerencias Then el equipo de desarrollo considera cada opinion para futuras mejoras Escenario: Aplicación en producción Given que la aplicación está en producción When los usuarios experimentan tiempos de carga lentos Then el equipo de desarrollo analiza el causal del problema y resuelve en un plazo determinado| Epic|
+|US36| Sistema de Autenticacion y Registro | Como de desarrollador quiero implementar un sistema de autenticacion y registro para aumentar el nivel de confianza de los clientes.| Escenario: Autenticación segura y eficaz Given que el usuario quiere ingresar a la aplicación When inicia sesión con sus credenciales Then la aplicación realiza una autenticación con el backend segura y rápida| Epic|
 
 ## 3.3. Impact Mapping
+![Impact Mapping](/Docs/Capitulo%20III/img/impact_mapping.png)
 ## 3.4. Product Backlog
 |**# Orden**|**User Story Id**|**Titulo**|**Descripcion**|**Story Point(1/2/3/5/8)**|
 |-----------|-----------|----------|--------|---------|
@@ -373,11 +445,19 @@ Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?shar
 |3|US05|Ver la información del producto|Como usuario quiero ver la información del producto|3|
 |4|US02|Agregar un artículo al inventario|Como usuario quiero agregar un artículo a mi inventario	|8|
 |5|US04|Quitar un artículo del inventario|Como usuario quiero quitar articulo que tengan defectos o estén en desuso|8|
-|6|US15|registrar una venta|Como usuario quiero registrar una venta|5|
+|6|US15|Registrar una venta|Como usuario quiero registrar una venta|5|
 |7|US08|Artículos con mayor demanda|Como usuario quiero saber cuales de mis productos son los que tienen mayor demanda|3|
 |8|US12|Reporte de Ventas|Como usuario quiero ver un reporte detallado de las ventas de mi negocio en un rango de fecha.|2|
 |9|US13|Reporte de Compras|Como usuario quiero ver un reporte detallado de las compras de mi negocio en un rango de fecha.|2|
 |10|US10|Actualizar los datos del proveedor de un producto|Como usuario quiero actualizar los datos de contacto de mis proveedores|5|
+|11|US36| Sistema de Autenticación y registro| Como desarrollador quiero implementar un sistema de autenticación y registro |5|
+|12|US29| Configuración del backend| Como desarrollador quiero poder editar, agregar, eliminar el inventario de productos de cada cliente|8|
+|13|US30| Configurar la base de datos| Como desasrrollador quiero poder configurar una base de datos para almacenar información que necesito |5|
+|14|US32|Funcionalidad de búsqueda avanzada| Como desarrollador quiero implementar la funcionalidad de búsqueda avanzada con filtros|5|
+|15|US34|Diseño de interfaz de usuario| Como desarrollador quiero diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable| 5|
+|16|US31|Integración de API de correo| Como desarrollador quiero integrar una API de correos para poder enviar a cada cliente un reporte de información|5|
+|17|US33| Optimización del rendimiento de la aplicación| Como desarrollador quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida| 5|
+|18|US35| Mantenimiento de la aplicación| Como desarrollador quiero establecer un plan de mantenimiento para saegurar el funcionamiento continuo de la aplicaión|8|
 |11|US17|Registro de proveedor|Como usuario quiero registrar un proveedor en la app|5|
 |12|US19|Recordar cuenta|Como usuario quiero contar con la opción de que mi cuenta se quede registrada en el navegador.|2|
 |13|US18|Información de suscripción|Como usuario quiero disponer de información acerca de mi suscripción.|3|
@@ -388,13 +468,13 @@ Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?shar
 |18|US09|Barra de búsqueda|Como usuario quiero una barra de búsqueda que me facilite encontrar algún artículo de mi inventario|3|
 |19|US14|Notificación|Como usuario quiero que se me muestre un mensaje de notificación cuando se quite un artículo del inventario.|2|
 |20|US16|Registro de producto con nombre erróneo|Como usuario quiero poder renombrar un producto que haya registrado|2|
-|21|US21|visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|5|
+|21|US21|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|5|
 |22|US23|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|3|
 |23|US22|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2|
 |24|US25|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|5|
 |25|US27|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|5|
 |26|US28|Poder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2|
-|27|US26|Poder ver el sitio web en inglés y españo|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|2|
+|27|US26|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|2|
 
 # Capitulo IV: Product  Design
 ## 4.1. Style Guidelines 
@@ -892,13 +972,13 @@ En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas 
 |--------|----------|-----|---|----|----|----|----|
 |User Story| Work-Item/Task|
 |Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
-|LP01| Visualizar el landing page en diferentes tamaños de dispositivos | LP01-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
-|LP03|Saber sobre los servicios que brindan|LP03-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
-|LP02|Desplazamiento desde encabezado|LP02-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
-|LP05|Poder enviar un mensaje a la empresa desarrollador|LP05-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
-|LP07|Tener una barra de navegación completa y funcional|LP07-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
-|LP08|Poder acceder a las redes sociales de la empresa|LP08-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
-|LP06|Poder ver el sitio web en inglés y español|LP06-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
+|US21| Visualizar el landing page en diferentes tamaños de dispositivos | LP01-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
+|US23|Saber sobre los servicios que brindan|LP03-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
+|US22|Desplazamiento desde encabezado|LP02-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
+|US25|Poder enviar un mensaje a la empresa desarrollador|LP05-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
+|US27|Tener una barra de navegación completa y funcional|LP07-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
+|US28|Poder acceder a las redes sociales de la empresa|LP08-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
+|US26|Poder ver el sitio web en inglés y español|LP06-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
@@ -942,3 +1022,6 @@ El deploymento del landing page se realizó mediante GithubPages.
 ![Evidence-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/deployment.png)
 Link del Landing Page: https://artsoftt.github.io/EasyInventory-LandingPage/#beneficios
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration1.png)
+![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration2.png)
