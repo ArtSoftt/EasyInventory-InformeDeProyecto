@@ -28,6 +28,8 @@
 | 0.1     | 14/09/23 | Fabiola      | Desarrollo del capitulo II        |
 | 0.1     | 14/09/23 | Piero        | Desarrollo del capitulo II y  III |
 | 0.2     | 18/09/23 | Brayan Smith | Reorganizacion del documento      |
+| 0.2     | 22/09/23 | Piero Miranda | Correcciones en el capitulo I    |
+
 
 ## Project Report Collaboration Insights
 
