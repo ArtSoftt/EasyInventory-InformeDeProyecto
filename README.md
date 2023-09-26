@@ -296,31 +296,24 @@ __Preguntas sobre el proyecto:__
  #### - Descripción: En la presente entrevista, el emprendedor nos cuenta como realiza el inventario de sus artículos de venta de forma manual. Él dice que le gusta realizar su trabajo de la forma tradicional pero que es cierto que esto en muchas ocasiones le causa cierta pérdida de tiempo. También nos dice que él está dispuesto a adaptarse a un nuevo método de realizar su inventario si es que este le agiliza este proceso de administración y que le gustaría que este método fuese lo más simple e intuitivo posible. 
 
 * ### Entrevista #2:
- #### - Nombre y apellido:
- #### - Edad:
- #### - Distrito: 
- ####  [Image]
-  ####  -URL: 
- #### - Duración: 
- #### - Descripción:
+ #### - Nombre y apellido: Diego Servan
+ #### - Edad: 20
+ #### - Distrito: Sjl
+ ####  [Image] 
+  ####  -URL: https://drive.google.com/file/d/1OK8MzVKFYqPFD5WHV6rOtNluX8FpqdrB/view
+ #### - Duración: 6.46
+ #### - Descripción: El presente entrevistado es trabajador de un peqeño local de componentes que tienen un sistema de inventario tradicional 
 
  * ### Entrevista #3:
- #### - Nombre y apellido:
- #### - Edad:
- #### - Distrito: 
+ #### - Nombre y apellido: Cintia Yaipen Oliveira
+ #### - Edad: 41
+ #### - Distrito: Miraflores
  ####  [Image]
-  ####  -URL: 
- #### - Duración: 
- #### - Descripción:
+  ####  -URL: https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
+ #### - Duración: 5.40
+ #### - Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una  apliacion de control de inventario 
 
- * ### Entrevista #4:
- #### - Nombre y apellido:
- #### - Edad:
- #### - Distrito: 
- ####  [Image]
-  ####  -URL: 
- #### - Duración: 
- #### - Descripción:
+
 
 
 ### 2.2.3. Análisis de entrevistas 
@@ -1025,3 +1018,17 @@ Link del Landing Page: https://artsoftt.github.io/EasyInventory-LandingPage/#ben
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration1.png)
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration2.png)
+### 5.2.2. Sprint 2
+En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos llevar a cabo la implementación del diseño realizado en figma de nuestra aplicacion web utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Search, Customers, Provider, Products, shopping y sales .
+#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.2.Sprint Backlog 2.
+A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
+
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
