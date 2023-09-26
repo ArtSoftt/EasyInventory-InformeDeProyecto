@@ -737,7 +737,7 @@ Github URL:
 |---------|--------|-------|
 |Paul Vega |u20201b333@upc.edu.pe|Paul Vega|
 |Brayan Smith|u20211f984@upc.edu.pe|Brys83|
-|-|-|-|
+|Leonardo Taype|u20201e840|Leo2426|
 |-|-|-|
 |-|-|-|
 
