@@ -1135,19 +1135,76 @@ Image: Contiene las imágenes utilizadas para la página web.
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
+El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum. Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. El equipo de desarrollo también define los elementos del backlog del sprint y crea un plan detallado para poder completarlos. La reunión suele durar unas pocas horas y participan todos los miembros del equipo Scrum, incluyendo el Scrum Master y el Product Owner. El objetivo principal del Sprint Planning es crear una visión clara y compartida de lo que se va a conseguir durante el Sprint y cómo se va a lograr
+| Sprint #| Sprint 1|
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2023-09-15|
+|Time | 23:19|
+|Location| Reunion Virtual(Plataforme Discord)|
+|Prepared By| Paul Vega / Brayan Morales|
+|Attendees (to planning meeting)| Fabiola Becerra/ Paul Vega/ Brayan Morales/Piero Miranda/Leonarde Taype|
+|Sprint 1- 1 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
+|Sprint 1 - 1 Retrospective Summary| Como primer Sprint , hemos notado que aún hay varias secciones por mejorar como el nivel de trabajo en equipo, la comunicacón entre integrantes|
+|Sprint Goals & User Stories||
+|Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page, así como también la organización e implementación de la documentación.
+|Sprint 1 Velocity| Creación del Landing Page|
+|Sprints of Story Points| 24 Story points|
 
 #### 5.2.1.2. Sprint Backlog 1
-
+En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas como desarrollar nuevas funcionalidades, corregir errores o mejorar el rendimiento del sitio web. El equipo de desarrollo trabaja en el Sprint Backlog durante el Sprint para completar las tareas y lograr los objetivos del Sprint. Es importante que el equipo tenga en cuenta la prioridad y el valor de las tareas para asegurar que se estén abordando las más importantes para el éxito del proyecto.
+|Sprint #| Sprint 1 | | | |      | | |
+|--------|----------|-----|---|----|----|----|----|
+|User Story| Work-Item/Task|
+|Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
+|LP01| Visualizar el landing page en diferentes tamaños de dispositivos | LP01-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
+|LP03|Saber sobre los servicios que brindan|LP03-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
+|LP02|Desplazamiento desde encabezado|LP02-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
+|LP05|Poder enviar un mensaje a la empresa desarrollador|LP05-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
+|LP07|Tener una barra de navegación completa y funcional|LP07-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
+|LP08|Poder acceder a las redes sociales de la empresa|LP08-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
+|LP06|Poder ver el sitio web en inglés y español|LP06-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
 #### 5.2.1.3. Development Evidence for Sprint Review
-
+| Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
+|------------------------------------|--------|-----------|------------------------|---------------------|--------------------|
+| ArtSoftt/EasyInventory-LandingPage | main   | 325b178   | refactor(Landing Page) | Fix Landing Page    | 18/09/2023         |
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
+Debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos realizar los respectivos Tests. No obstante, se está evaluando qué aplicaciones usar para realizar las pruebas y validaciones correspondientes para desarrollar una efectiva aplicación web y que no contenga errores.
 #### 5.2.1.5. Execution Evidence for Sprint Review
+A continuación, se muestra screenshots del landing page desarrollado y desplegado.
 
+## Home 
+Esta sera la vista principal de nuestra landing page.
+
+![Evidence-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/inicio.png)
+## Servicios
+En esta sección hablaremos de los servicios y que hacemos como empresa.
+
+![Evidence-2](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/servicio.png)
+## Membresias
+En esta sección el usuario podrá visualizar las membresias que tenemos para cada uno.
+
+![Evidence-2](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/Membresias.png)
+## Team
+En esta sección nos presentaremos con una breve descripción para los usuarios.
+
+![Evidence-3](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/team1.png)
+![Evidence-4](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/team2.png)
+## Contacto
+En esta sección el usuario podrá contactarnos a nuestro correo.
+
+![Evidence-5](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/contacto.png)
+## Footer
+En esta sección tendremos el pie de pagina dónde el usuario visualizará informacion relevante.
+
+![Evidence-6](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/Footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
+Como se mencionó anteriormente, debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos documentar la relación de los endpoint.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+El deploymento del landing page se realizó mediante GithubPages.
 
+![Evidence-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/deployment.png)
+Link del Landing Page: https://artsoftt.github.io/EasyInventory-LandingPage/#beneficios
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration1.png)
