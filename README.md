@@ -380,7 +380,7 @@ __Preguntas sobre el proyecto:__
 #### - Descripción: En la presente entrevista, el emprendedor nos cuenta como realiza el inventario de sus artículos de venta de forma manual. Él dice que le gusta realizar su trabajo de la forma tradicional pero que es cierto que esto en muchas ocasiones le causa cierta pérdida de tiempo. También nos dice que él está dispuesto a adaptarse a un nuevo método de realizar su inventario si es que este le agiliza este proceso de administración y que le gustaría que este método fuese lo más simple e intuitivo posible.
 
 * ### Entrevista #2:
-<<<<<<< HEAD
+
  #### - Nombre y apellido: Diego Servan
  #### - Edad: 20
  #### - Distrito: Sjl
@@ -399,56 +399,6 @@ __Preguntas sobre el proyecto:__
  #### - Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una  apliacion de control de inventario 
 
 
-=======
-
-#### - Nombre y apellido:
-
-#### - Edad:
->>>>>>> 640cfdb9c3695acc66babd4c8d86ab1a06063681
-
-#### - Distrito:
-
-#### [Image]
-
-#### -URL:
-
-#### - Duración:
-
-#### - Descripción:
-
-* ### Entrevista #3:
-
-#### - Nombre y apellido:
-
-#### - Edad:
-
-#### - Distrito:
-
-#### [Image]
-
-#### -URL:
-
-#### - Duración:
-
-#### - Descripción:
-
-* ### Entrevista #4:
-
-#### - Nombre y apellido:
-
-#### - Edad:
-
-#### - Distrito:
-
-#### [Image]
-
-#### -URL:
-
-#### - Duración:
-
-#### - Descripción:
-
-### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
@@ -565,13 +515,13 @@ Link a herramienta de desarrollo : https://miro.com/app/board/uXjVMqmzijg=/?shar
 | 18          | US09              | Barra de búsqueda                                                | Como usuario quiero una barra de búsqueda que me facilite encontrar algún artículo de mi inventario                                | 3                          |
 | 19          | US14              | Notificación                                                     | Como usuario quiero que se me muestre un mensaje de notificación cuando se quite un artículo del inventario.                       | 2                          |
 | 20          | US16              | Registro de producto con nombre erróneo                          | Como usuario quiero poder renombrar un producto que haya registrado                                                                | 2                          |
-| 21          | LP01              | visualizar el landing page en diferentes tamaños de dispositivos | Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla                                                  | 5                          |
-| 22          | LP03              | Saber sobre los servicios que brindan                            | Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación | 3                          |
-| 23          | LP02              | Desplazamiento desde encabezado                                  | Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.                       | 2                          |
-| 24          | LP05              | Poder enviar un mensaje a la empresa desarrollador               | Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación                      | 5                          |
-| 25          | LP07              | Tener una barra de navegación completa y funcional               | Como visitante quiero tener una navegación rápida en el landing page                                                               | 5                          |
-| 26          | LP08              | Poder acceder a las redes sociales de la empresa                 | Como visitante quiero poder ser direccionado a las redes sociales de la empresa                                                    | 2                          |
-| 27          | LP06              | Poder ver el sitio web en inglés y españo                        | Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad                     | 2                          |
+| 21          | US21              | visualizar el landing page en diferentes tamaños de dispositivos | Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla                                                  | 5                          |
+| 22          | US23              | Saber sobre los servicios que brindan                            | Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación | 3                          |
+| 23          | US22              | Desplazamiento desde encabezado                                  | Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.                       | 2                          |
+| 24          | US25              | Poder enviar un mensaje a la empresa desarrollador               | Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación                      | 5                          |
+| 25          | US27              | Tener una barra de navegación completa y funcional               | Como visitante quiero tener una navegación rápida en el landing page                                                               | 5                          |
+| 26          | US28              | Poder acceder a las redes sociales de la empresa                 | Como visitante quiero poder ser direccionado a las redes sociales de la empresa                                                    | 2                          |
+| 27          | US26              | Poder ver el sitio web en inglés y españo                        | Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad                     | 2                          |
 
 # Capitulo IV: Product  Design
 
@@ -1199,7 +1149,6 @@ Image: Contiene las imágenes utilizadas para la página web.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-<<<<<<< HEAD
 Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration1.png)
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration2.png)
@@ -1208,14 +1157,241 @@ En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos ll
 #### 5.2.2.1.Sprint Planning 2.
 #### 5.2.2.2.Sprint Backlog 2.
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US02 Agregar un artículo al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir los formularias del agregado del producto</td>
+    <td align="justify">Añadido del formulario para añadir productos</td>
+    <td align="center"> 1 </td>
+    <td align="center"> </td>
+    <td align="center">Done</td>
+  </tr>
 
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir los botones de confirmacion de confirmacion </td>
+    <td align="center"> se añade el boton con un estilo verde de prime vue</td>
+    <td align="center"> 1</td>
+    <td align="center"> </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir conexion con el apifake</td>
+    <td align="center"> Se eralizo la conexion con el apifake para comprobar la funcionalidad </td>
+    <td align="center"> 2</td>
+    <td align="center"> </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Establecer el nombre de cada formulario.</td>
+    <td align="center"> Se añade el nombre de cada formularion la respectiva fuente</td>
+    <td align="center"> 1</td>
+    <td align="center"> </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US20N Visualización de perfil de usuario</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir la card que contega la informacion del usuario </td>
+    <td align="center"> Se añadira la car con prime vue y se agregara  los campos donde se vera la informacion gracias al apifake</td>
+    <td align="center"> 2</td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir la card que contega la informacion de la membresia </td>
+    <td align="center">Se añadira la car con prime vue y se agregara  los campos donde se vera la informacion gracias al apifake </td>
+    <td align="center"> 1</td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+   <td align="center"> Establece conexion con el apifake</td>
+    <td align="center"> Se realizara una conexion para probar el funcionamiento de lo desarrollado anteriormente</td>
+    <td align="center"> 1 </td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US06 Registro de usuario en plataforma </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se añadira una Divider donde se pedira el usuario y contraseña</td>
+    <td align="center"> Se añadira el componente y se aplicara estilos para estar deacuerdo a los Mock-ups</td>
+    <td align="center"> 1</td>
+    <td align="center"> </td>
+    <td align="center"> process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear el toolbar inicial con el logo respectivo</td>
+    <td align="center"> Se agreagara un toolbar </td>
+    <td align="center"> 2</td>
+    <td align="center"> </td>
+    <td align="center"> process</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US11 Dashboard </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir 5 card </td>
+    <td align="center"> Se añade 5 card para mostrar las estadisticas de ventas,ultimos usuarios, ultimas ventas, ultimo provedor y ultimas compras </td>
+    <td align="center"> 3</td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir link bar </td>
+    <td align="center"> Se agregará una link bar para la navegacion de los usuarios por la aplicacion web</td>
+    <td align="center"> 2</td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Se añadira el boton de cierre de sesion </td>
+    <td align="center"> Se añadirán las boton de cierre de sesion que finalizara la sesion del usuario en la aplicacion web</td>
+    <td align="center"> 2</td>
+    <td align="center"> </td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US17 Registro de Proveedor</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Agregar formularios</td>
+    <td align="center"> Se agregará varios campos de formulario que permitira el resgitro de los datos del provedor</td>
+    <td align="center"> 1</td>
+    <td align="center"> fabiola</td>
+    <td align="center"> process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> añadir un boton de aceptar </td>
+    <td align="center"> Se agregará un boton funcional que agrege solo datos validos</td>
+    <td align="center"> 2</td>
+    <td align="center"> fabiola</td>
+    <td align="center"> process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir boton de actualizar</td>
+    <td align="center"> Se agregara un boton de actualizar </td>
+    <td align="center"> 3</td>
+    <td align="center"> fabiola</td>
+    <td align="center"> process</td>
+  </tr>
+</table>
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/ArtSoftt/EasyInventory-FrontEnd </td>
+    <td align="center"> main</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 13/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/home</td>
+    <td align="center"> 64b097668eff10e74c80b19e9a5fdf0bb0859eb7</td>
+    <td align="center"> feat (home): added components of home</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+</table>
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+Despues de completar el sprint 2, lograr implementar y desplegar la seccion del dashboard y vista de perfil.
+**Evidencia:**
+* **NOMBRE DE LA SECCIÓN:** 
+**Imagen 1:** Home(Dashboard)
+![Home]()
+**Imagen 2:** Product(Dashboard)
+![Producto]()
+**Imagen 3:** Perfil(Dashboard)
+![Perfil]()
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "EasyInventory".
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+  <tr>
+    <td> https://www.npmjs.com/package/json-server</td>
+    <td> Fake API  del Frontend de EasyInventory</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Desplegar Frontend de EasyInventory</td>
+  </tr>
+</table>
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Para la implementación de nuestra apliacion web, optamos por utilizar Firebase. En este proceso, se creo un proyecto en Firebase, para acceder a los datos se necesita el json de manera local.
+
+**Link de la aplicacion web desplegada:** [EasyInventory]() 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
-=======
->>>>>>> 640cfdb9c3695acc66babd4c8d86ab1a06063681
+En esta entrega nuestra meta principal fue el desarrollo de principales funciones como el agregar producto, el perfil del usuario y el Dashboard que fueron realizados haciendo uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript.
+__* Diagramas de Flujo__ 
+![Grafico de Barras]()
+Grafico de barras que muestra los commits realizados por el equipo de trabajo que realizo el sprint2.
+![Grafico de Onda]()
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits.
+![Diagrama de flujo]()
+Diagrama de flujo que muestra las ramas trabajadas en el desarrollo de los user stories escogidos en este sprint 2.
