@@ -1157,13 +1157,13 @@ En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas 
 |--------|----------|-----|---|----|----|----|----|
 |User Story| Work-Item/Task|
 |Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
-|LP01| Visualizar el landing page en diferentes tamaños de dispositivos | LP01-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
-|LP03|Saber sobre los servicios que brindan|LP03-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
-|LP02|Desplazamiento desde encabezado|LP02-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
-|LP05|Poder enviar un mensaje a la empresa desarrollador|LP05-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
-|LP07|Tener una barra de navegación completa y funcional|LP07-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
-|LP08|Poder acceder a las redes sociales de la empresa|LP08-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
-|LP06|Poder ver el sitio web en inglés y español|LP06-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
+|US21| Visualizar el landing page en diferentes tamaños de dispositivos | US21-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
+|US23|Saber sobre los servicios que brindan|US23-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
+|US22|Desplazamiento desde encabezado|US22-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
+|US25|Poder enviar un mensaje a la empresa desarrollador|US25-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
+|US27|Tener una barra de navegación completa y funcional|US27-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
+|US28|Poder acceder a las redes sociales de la empresa|US28-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
+|US26|Poder ver el sitio web en inglés y español|US26-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
 |------------------------------------|--------|-----------|------------------------|---------------------|--------------------|
@@ -1402,12 +1402,81 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
   </tr>
 
   <tr>
-    <td align="center"> feature/home</td>
-    <td align="center"> 64b097668eff10e74c80b19e9a5fdf0bb0859eb7</td>
-    <td align="center"> feat (home): added components of home</td>
+    <td align="center"> feature/Login</td>
+    <td align="center"> 09f4d07197c2522dbb9bdf8a9b00883ec5b2f753</td>
+    <td align="center"> feat: Login final commit </td>
     <td align="center"> ---</td>
-    <td align="center"> 24/09/2023</td>
+    <td align="center"> 25/09/2023</td>
   </tr>
+
+  <tr>
+    <td align="center">ArtSoftt/develop</td>
+    <td align="center">c6ac1f04517bd538986f2e41061b284fe4e06c15</td>
+    <td align="center"> Merge pull request</td>
+    <td align="center"> ---</td>
+  <td align="center"> 25/09/2023</td>
+
+  <tr>
+    <td align="center">ArtSoftt/develop</td>
+    <td align="center">0ebb71da176ce65456f805c1b28f9a645084ac08</td>
+    <td align="center"> Create customer-entity.js</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">feature/user</td>
+    <td align="center">b2b03d5ac034ed171d2490c0815eb6342ccadd2c</td>
+    <td align="center"> feat(user): added user component.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">feature/user</td>
+    <td align="center">b2b03d5ac034ed171d2490c0815eb6342ccadd2c</td>
+    <td align="center">feat(user): added birthday, phone and email.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">feature/Login</td>
+    <td align="center">14d8336e3b8963dd9a5bbd2f05dbc82b7fbcb71c</td>
+    <td align="center">feat(signUP): signup finished</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center">ArtSoftt/develop</td>
+    <td align="center">512bf26d3aa1b663604182c34858ab47c5eac15a</td>
+    <td align="center">Merge pull request #3 from ArtSoftt/feature/signUp </td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center">ArtSoftt/develop</td>
+    <td align="center">512bf26d3aa1b663604182c34858ab47c5eac15a</td>
+    <td align="center">Merge pull request #3 from ArtSoftt/feature/signUp </td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/home</td>
+    <td align="center">351402c10a90122bb304c4397c58d16161a3fba9</td>
+    <td align="center">feat(home): adding listbox</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center">ArtSoftt/develop</td>
+    <td align="center">351402c10a90122bb304c4397c58d16161a3fba9</td>
+    <td align="center">Merge pull request #8 from ArtSoftt/feature/home</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
 
 </table>
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -1448,7 +1517,7 @@ En esta entrega nuestra meta principal fue el desarrollo de principales funcione
 __* Diagramas de Flujo__ 
 ![Grafico de Barras]()
 Grafico de barras que muestra los commits realizados por el equipo de trabajo que realizo el sprint2.
-![Grafico de Onda]()
+![Grafico de Onda](/Docs/assets/Diagrama-Onda.png)
 En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits.
-![Diagrama de flujo]()
+![Diagrama de flujo](/Docs/assets/Diagrama-flujo.png)
 Diagrama de flujo que muestra las ramas trabajadas en el desarrollo de los user stories escogidos en este sprint 2.
