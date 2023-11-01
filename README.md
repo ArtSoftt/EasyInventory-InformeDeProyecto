@@ -28,10 +28,19 @@
 | 0.1     | 14/09/23 | Fabiola      | Desarrollo del capitulo II        |
 | 0.1     | 14/09/23 | Piero        | Desarrollo del capitulo II y  III |
 | 0.2     | 18/09/23 | Brayan Smith | Reorganizacion del documento      |
-| 0.2     | 22/09/23 | Piero Miranda | Correcciones en el capitulo I    |
+| 0.3     | 22/09/23 | Piero Miranda | Correcciones en el capitulo I    |
+| 1       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Piero <br>| Sprint 2                         |
+| 1.5       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Piero <br> | Sprint 3                         |
 
 
-## Project Report Collaboration Insights
+## Project Report Collaboration Insights 
+
+
+![](Docs/assets/colaboracion/grafico1.png)
+![](Docs/assets/colaboracion/Networkgraph.png)
+
+
+Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
 
 ------
 
@@ -121,6 +130,25 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+
+
+
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1.Spring Planning 3.](#5231spring-planning-3)
+      - [5.2.3.2.Sprint Backlog 3.](#5232sprint-backlog-3)
+      - [5.2.3.3.Development Evidence for Sprint Review.](#5233development-evidence-for-sprint-review)
+      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews.](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
+
 
 -----
 
@@ -1521,3 +1549,303 @@ Grafico de barras que muestra los commits realizados por el equipo de trabajo qu
 En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits.
 ![Diagrama de flujo](/Docs/assets/Diagrama-flujo.png)
 Diagrama de flujo que muestra las ramas trabajadas en el desarrollo de los user stories escogidos en este sprint 2.
+
+### 5.2.3. Sprint 3
+En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de 21 puntos.
+
+**Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories) 
+
+**Arsoft Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
+
+#### 5.2.3.1.Spring Planning 3.
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 3</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-11-1</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>12:00 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Morales Quispe Brayan Smith</li>
+        <li>Miranda Sinarahua Piero</li>
+        <li>Taype Fernandez Leonardo</li>
+        <li>Becerra Llempen Fabiola Dayane</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de xx al xx que tuvo como meta el  desarrollo del landing page.Se obtuvo como resultado el completo desarrollo de landig page y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint fue la mejora de la documentacion,comunicacion y mejoras continuas al proyecto  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la backend en  un 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US03 Ver las cantidades de cada producto SP: 5</li>
+        <li>US02 Agregar un artículo al inventario SP: 8</li>
+        <li>US04 Quitar un artículo del inventario SP: 8</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>21</td>
+  </tr>
+</table>
+
+#### 5.2.3.2.Sprint Backlog 3.
+presentamos la tabla de control de estado del Sprint con las tareas asignadas a cada miembro de nuestro equipo.
+
+        <li>Vega Sayritupac Paul Kennedin</li>
+        <li>Morales Quispe Brayan Smith</li>
+        <li>Miranda Sinarahua Piero</li>
+        <li>Taype Fernandez Leonardo</li>
+        <li>Becerra Llempen Fabiola Dayane</li>
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US02 Agregar un artículo al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollar las entidades,agregados y objetos de valor que usara el servicio en nuestra backend</td>
+    <td align="justify"> Se define los atributos de las entidades,agregados y objetos de valor</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos POST a nuestra API</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paul Kennedin</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la arquitectura </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo la el domain-driven-design </td>
+    <td align="center"> 1</td>
+    <td align="center"> Piero</td>
+    <td align="center">Done</td>
+  </tr>
+
+
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US03 Ver las cantidades de cada producto</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Creacion de Queries respecto al metodo GET</td>
+    <td align="justify"> Se creara un queries para poder enviar los productos que tiene el usuario en su inventario</td>
+    <td align="center"> 2</td>
+    <td align="center"> Leonardo</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementacion del metodo GET en el controlador</td>
+    <td align="justify"> Se implementa el metodo GET en el controlador para luego proceder a realizar pruebas</td>
+    <td align="center"> 1</td>
+    <td align="center"> Fabiola Dayane</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la arquitectura </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo la el domain-driven-design </td>
+    <td align="center"> 1</td>
+    <td align="center"> Piero</td>
+    <td align="center">Done</td>
+
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US04 Quitar un artículo del inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementacion del Command DELETE </td>
+    <td align="center"> Se implementa el command Delete para que el servicio lo pueda usar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementacion del metodo DELETE en el controlador</td>
+    <td align="center"> Se implementa el metodo DELETE en el controlador para luego proceder a realizar pruebas</td>
+    <td align="center"> 1</td>
+    <td align="center"> Paul Kennedin</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la arquitectura </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo la el domain-driven-design </td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Realizacion de Pruebas</td>
+    <td align="center">Se realizara pruebas de funcionamiento del metodo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Fabiola</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> https://github.com </td>
+    <td align="center"> main</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 529093aa07e2dacb8f7bf6993269590c36116e11</td>
+    <td align="center"> feat(searchTechnical): merge searchTechnical branch into developer</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6754abaf5993b6bec139f2717b1ca52992ea16e6</td>
+    <td align="center"> feat(techProfile): added tech profile component dependencies</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 90785382aff9e4335ea5c81ae3875c1503d4f954</td>
+    <td align="center"> feat(techProfile): added tech profile component functionalities.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> 21ca339152d3370a90d5e6aff112667e7578d707</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/requestservice' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> b7f79e23138866327ee1984e313e77f2db63c563</td>
+    <td align="center"> fMerge remote-tracking branch 'origin/developers' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product
+
+
