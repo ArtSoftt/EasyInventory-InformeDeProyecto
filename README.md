@@ -1838,14 +1838,114 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
 </table>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+poner el mismo cuadro de arriba
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+IMAGENES DE EJECUCION DE NUESTRA API
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos relacional.
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+  <tr>
+    <td> Link del api</td>
+    <td> API de EasyInventory</td>
+  </tr>
+  <tr>
+    <td> link de nuestra base de datos</td>
+    <td> Base de Datos de nuesta app web</td>
+  </tr>
+</table>
+
+PONER IMAGEN
+
+En esta imagen se puede aprecias nuestros metodos GET POST DELETE sobre la entidad producto.
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Poner imagenes de como desplegamos paso a paso
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación de los metodos GET,POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
+
+![Cantidad de commits(Grafica de barras)]()
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo. 
+
+![commits.png]()
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro tercer sprint.
+
+![network.png]()
+
+
+
 ## 5.3. Validation Interviews.
+En esta seccion mostramos las entrevistas realizadas a nuestros usuarios objetivos de EasyInventory.
 ### 5.3.1. Diseño de Entrevistas.
+A continuacion se presentaron los siguientes user flows que se usaron para las entrevistas.
+* __User Goal:__ Como usuario deseo registrarse dentro de la aplicación web.
+
+![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/1.png)
+
+El usuario comienza su interacción con la aplicación rellenando los siguientes datos para la creación de su cuenta:
+Nombre completo, email, contraseña , confirme su contraseña y fecha de nacimiento, seleccionando qué es un usuario que
+desea un servicio.
+
+* __User Goal:__ Como usuario deseo iniciar mi sesion para acceder al contenido de la aplicación web
+
+![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/2.png)
+
+El usuario rellena los datos que le pide el inicio de sesión los cuales son: correo electrónico y su contraseña. De esta
+manera podrá ingresar a su cuenta.
+
+* __User Goal:__ Como usuario deseo modificar y ver el estado de mi perfil
+
+![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/3.png)
+
+El usuario se dirige al icono en la parte derecha superior, luego de hacer click este nos muestra los datos del perfil
+
+* __User Goal:__  Como usuario deseo buscar en el inventario
+
+![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/4.png)
+
+El usuario se dirije al apartado de "Search", luego seleccióna los filtros que el usuario dese para luego confirmar la
+busqueda.
+
+* __User Goal:__  Como usuario deseo añadir clientes para luego poder verlos en una lista
+  ![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/5.png)
+
+El usuario se dirige a la opción customer, para luego rellenar los campos pedidos esto actualizara nuestra base de
+datos.
+
+
+* __User Goal:__ Como usuario deseo añadir un producto
+  ![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/7.png)
+
+El usuario se dirige a la opción product,para luego rellenar los campos necesarios esto provocara ue nos muestre la
+lista de productos.
 ### 5.3.2. Registro de Entrevistas.
+**Entrevistas**
+**Nombre y Apellido (1 Entrevistado):**
+**Edad:**
+**Distrito:**
+
+**Nombre y Apellido (2 Entrevistado):**
+**Edad:**
+**Distrito:**
+
+**Nombre y Apellido (3 Entrevistado):**
+**Edad:**
+**Distrito:**
+
+**URL:**
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
 ## 5.4. Video About-the-Product
+
+Link del video: ![link]()
 
 
