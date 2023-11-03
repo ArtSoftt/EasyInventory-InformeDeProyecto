@@ -1639,12 +1639,11 @@ Diagrama de flujo que muestra las ramas trabajadas en el desarrollo de los user 
 
 ### 5.2.3. Sprint 3
 En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de 21 puntos.
-
+<!--Cambiar links-->
 **Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories) 
 
 **Arsoft Backend Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
 
-**Arsoft Frontend Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
 
 #### 5.2.3.1.Spring Planning 3.
 <table>
