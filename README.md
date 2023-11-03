@@ -1909,20 +1909,37 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
     <td align="center"> ---</td>
     <td align="center"> 02/11/2023</td>
   </tr>
-
-
-
-
 </table>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
-poner el mismo cuadro de arriba
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" align="center"> https://github.com/ArtSoftt/EasyInventory-Backend </td>
+    <td align="center"> main</td>
+    <td align="center"> 5f8ca9212d378352aa40fd67be6061b0f05c2d83</td>
+    <td align="center"> feat(test) </td>
+    <td align="center"> Added test de user,products and customers</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+</table>
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 Aqui se mostrara la ejecucion de nuestra API REST con sus respecdtivos metodos GET,PUT,POST y DELETE
 ![Api](/Docs/assets/sprint3/api.jpg)
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos relacional.
+<!--Agregar Links-->
 <table> 
   <tr>
     <td> <strong>End Point </strong></td>
@@ -1940,10 +1957,14 @@ En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-
-Poner imagenes de como desplegamos paso a paso
+<!--Agregar imagenes-->
+![Imagen del pagina para el despliege]()
+Se puede apreciar la pagina que usamos para el despliege de nuestra backend.
+![Imagen del api general]()
+Se puede ver todos  los metodos implementados en estre sprint ademas de estar ejcutadose en su propio dominio.
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+<!--Agregar imagenes-->
 En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
 
 ![Cantidad de commits(Grafica de barras)]()
