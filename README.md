@@ -2028,46 +2028,41 @@ lista de productos.
   </tr>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1</td>
+    <td>Se repite constantemente algunas opciones</td>
+    <td>2</td>
+    <td>Usability: Consistencia y estandares</td>
   </tr>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2</td>
+    <td>No hay mensajes que confirmen al eliminar un producto</td>
+    <td>3</td>
+    <td>Usability:Libertad y Control</td>
   </tr>
     
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>3</td>
+    <td>El boton English-Español no realiza nngun evento</td>
+    <td>1</td>
+    <td>Information Architecture: Is it usable?</td>
   </tr>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>Se repite constantemente algunas paginas</td>
+    <td>1</td>
+    <td>Usability:Consistencia y estandares</td>
   </tr>
 
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+   <tr>
+    <td>5</td>
+    <td>No hay peronalizacion mas propia del usuario respecto a los colores</td>
+    <td>1</td>
+    <td>Usability:Libertad y Control</td>
   </tr>
 
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+ 
 </Table>
 
 ## 5.4. Video About-the-Product
