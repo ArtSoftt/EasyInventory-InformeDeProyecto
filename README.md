@@ -1240,6 +1240,92 @@ Team Collaboration Insights hace referencia a una variedad de datos e informaci�
 ### 5.2.2. Sprint 2
 En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos llevar a cabo la implementación del diseño realizado en figma de nuestra aplicacion web utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Search, Customers, Provider, Products, shopping y sales .
 #### 5.2.2.1.Sprint Planning 2.
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 2</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-08-1</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>12:00 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Morales Quispe Brayan Smith</li>
+        <li>Miranda Sinarahua Piero</li>
+        <li>Taype Fernandez Leonardo</li>
+        <li>Becerra Llempen Fabiola Dayane</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de 01 al 10 de agosto que tuvo como meta el  desarrollo del landing page.Se obtuvo como resultado el completo desarrollo de landig page y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint fue la mejora de la documentacion,comunicacion y mejoras continuas al proyecto  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 1 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la frontend en  un 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US20 Visualización de perfil de usuario SP:5 </li>
+        <li>US02 Agregar un artículo al inventario SP: 8</li>
+        <li>US17 Registro de Proveedor SP:5 </li>
+        <li>US06 Registro de usuario en plataforma SP:3</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>21</td>
+  </tr>
+</table>
+
 #### 5.2.2.2.Sprint Backlog 2.
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
 <table>
@@ -1303,7 +1389,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
 
   <tr>
     <td rowspan="3" align="center"> ID </td>
-    <td rowspan="3" align="center"> US20N Visualización de perfil de usuario</td>
+    <td rowspan="3" align="center"> US20 Visualización de perfil de usuario</td>
     <td align="center"> TA01 </td>
     <td align="center"> Añadir la card que contega la informacion del usuario </td>
     <td align="center"> Se añadira la car con prime vue y se agregara  los campos donde se vera la informacion gracias al apifake</td>
@@ -1507,6 +1593,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
 
 
 </table>
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 Despues de completar el sprint 2, lograr implementar y desplegar la seccion del dashboard y vista de perfil.
 **Evidencia:**
@@ -1555,7 +1642,9 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
 
 **Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories) 
 
-**Arsoft Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
+**Arsoft Backend Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
+
+**Arsoft Frontend Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
 
 #### 5.2.3.1.Spring Planning 3.
 <table>
@@ -1602,7 +1691,7 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
 
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>El anterior sprint desarrollado de xx al xx que tuvo como meta el  desarrollo del landing page.Se obtuvo como resultado el completo desarrollo de landig page y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint fue la mejora de la documentacion,comunicacion y mejoras continuas al proyecto  </td>
+    <td>El anterior sprint desarrollado de 12 al 16 de setiembre que tuvo como meta el  desarrollo de la frontend.Se obtuvo como resultado parcial desarrollo de la front end y su despliege en su parcialidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion al programar la front end. El feeback dado al sprint fue la mejora de la documentacion,comunicacion, mejoras continuas al proyecto y   </td>
   </tr>
 
   <tr>
@@ -1645,11 +1734,6 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
 #### 5.2.3.2.Sprint Backlog 3.
 presentamos la tabla de control de estado del Sprint con las tareas asignadas a cada miembro de nuestro equipo.
 
-        <li>Vega Sayritupac Paul Kennedin</li>
-        <li>Morales Quispe Brayan Smith</li>
-        <li>Miranda Sinarahua Piero</li>
-        <li>Taype Fernandez Leonardo</li>
-        <li>Becerra Llempen Fabiola Dayane</li>
 
 <table>
   <tr>
@@ -1695,7 +1779,7 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
   <tr>
     <td align="center"> TA03 </td>
     <td align="center"> Revision de la arquitectura </td>
-    <td align="center"> Se revia la organizacion de carpetas siguiendo la el domain-driven-design </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo domain-driven-design </td>
     <td align="center"> 1</td>
     <td align="center"> Piero</td>
     <td align="center">Done</td>
@@ -1716,9 +1800,9 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
 
   <tr>
     <td align="center"> TA02 </td>
-    <td align="center"> Implementacion del metodo GET en el controlador</td>
-    <td align="justify"> Se implementa el metodo GET en el controlador para luego proceder a realizar pruebas</td>
-    <td align="center"> 1</td>
+    <td align="center"> Implementacion del metodos GET en el controlador</td>
+    <td align="justify"> Se implementa el metodos GET en el controlador que envier los productos por id y productos en general </td>
+    <td align="center"> 2</td>
     <td align="center"> Fabiola Dayane</td>
     <td align="center"> Done</td>
   </tr>
@@ -1726,7 +1810,7 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
   <tr>
     <td align="center"> TA03 </td>
     <td align="center"> Revision de la arquitectura </td>
-    <td align="center"> Se revia la organizacion de carpetas siguiendo la el domain-driven-design </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo domain-driven-design </td>
     <td align="center"> 1</td>
     <td align="center"> Piero</td>
     <td align="center">Done</td>
@@ -1748,7 +1832,7 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
     <td align="center"> TA02 </td>
     <td align="center"> Implementacion del metodo DELETE en el controlador</td>
     <td align="center"> Se implementa el metodo DELETE en el controlador para luego proceder a realizar pruebas</td>
-    <td align="center"> 1</td>
+    <td align="center"> 2</td>
     <td align="center"> Paul Kennedin</td>
     <td align="center"> Done</td>
   </tr>
@@ -1785,54 +1869,48 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
   </tr>
 
   <tr>
-    <td rowspan="4" align="center"> https://github.com </td>
+    <td rowspan="5" align="center"> https://github.com/ArtSoftt/EasyInventory-Backend </td>
     <td align="center"> main</td>
-    <td align="center"> id commit</td>
-    <td align="center"> chore: initial commit</td>
+    <td align="center"> 5f8ca9212d378352aa40fd67be6061b0f05c2d83</td>
+    <td align="center"> Initial Commit </td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 18/10/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/techProfile</td>
-    <td align="center"> 529093aa07e2dacb8f7bf6993269590c36116e11</td>
-    <td align="center"> feat(searchTechnical): merge searchTechnical branch into developer</td>
+    <td align="center"> developer</td>
+    <td align="center"> eebdd709abe6715f787630cb9e1cb1cbed1262f9</td>
+    <td align="center"> feat(product): Creation of endpoints product</td>
     <td align="center"> ---</td>
-    <td align="center"> 27/09/2023</td>
+    <td align="center"> 01/11/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/techProfile</td>
-    <td align="center"> 6754abaf5993b6bec139f2717b1ca52992ea16e6</td>
-    <td align="center"> feat(techProfile): added tech profile component dependencies</td>
+    <td align="center"> feat/Customers</td>
+    <td align="center"> eebdd709abe6715f787630cb9e1cb1cbed1262f9</td>
+    <td align="center"> feat(product): Creation of endpoints product</td>
     <td align="center"> ---</td>
-    <td align="center"> 27/09/2023</td>
+    <td align="center"> 02/11/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/techProfile</td>
-    <td align="center"> 90785382aff9e4335ea5c81ae3875c1503d4f954</td>
-    <td align="center"> feat(techProfile): added tech profile component functionalities.</td>
+    <td align="center"> feat/Customers</td>
+    <td align="center"> f891966b0baf121d333b748c99b7e5fcc9544358</td>
+    <td align="center"> feat(Customer): Adding CRUD</td>
     <td align="center"> ---</td>
-    <td align="center"> 27/09/2023</td>
+    <td align="center"> 02/11/2023</td>
   </tr>
 
 
   <tr>
-    <td align="center"> developers </td>
-    <td align="center"> 21ca339152d3370a90d5e6aff112667e7578d707</td>
-    <td align="center"> Merge remote-tracking branch 'origin/feature/requestservice' into developers</td>
+    <td align="center"> feat/Customers </td>
+    <td align="center"> 49c497135521c4fc2898af2ac5cce71102890da7</td>
+    <td align="center"> Update c#.gitignore</td>
     <td align="center"> ---</td>
-    <td align="center"> 27/09/2023</td>
+    <td align="center"> 02/11/2023</td>
   </tr>
 
-  <tr>
-    <td align="center"> developers </td>
-    <td align="center"> b7f79e23138866327ee1984e313e77f2db63c563</td>
-    <td align="center"> fMerge remote-tracking branch 'origin/developers' into developers</td>
-    <td align="center"> ---</td>
-    <td align="center"> 27/09/2023</td>
-  </tr>
+
 
 
 </table>
@@ -1841,7 +1919,8 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
 
 poner el mismo cuadro de arriba
 #### 5.2.3.5.Execution Evidence for Sprint Review.
-IMAGENES DE EJECUCION DE NUESTRA API
+Aqui se mostrara la ejecucion de nuestra API REST con sus respecdtivos metodos GET,PUT,POST y DELETE
+![Api](/Docs/assets/sprint3/api.jpg)
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos relacional.
 <table> 
@@ -1859,16 +1938,13 @@ En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos
   </tr>
 </table>
 
-PONER IMAGEN
-
-En esta imagen se puede aprecias nuestros metodos GET POST DELETE sobre la entidad producto.
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 Poner imagenes de como desplegamos paso a paso
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
-En esta entrega, nuestra meta principal fue la implementación de los metodos GET,POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
+En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
 
 ![Cantidad de commits(Grafica de barras)]()
 
@@ -1928,11 +2004,11 @@ El usuario se dirige a la opción product,para luego rellenar los campos necesar
 lista de productos.
 ### 5.3.2. Registro de Entrevistas.
 **Entrevistas**
-**Nombre y Apellido (1 Entrevistado):**
-**Edad:**
-**Distrito:**
+**Nombre y Apellido (1 Entrevistado):** Olga Quispe Garcia
+**Edad:** 51
+**Distrito:** Surquillo
 
-**Nombre y Apellido (2 Entrevistado):**
+**Nombre y Apellido (2 Entrevistado):** 
 **Edad:**
 **Distrito:**
 
@@ -1943,9 +2019,62 @@ lista de productos.
 **URL:**
 
 ### 5.3.3. Evaluaciones según heurísticas.
+<Table>
+  <tr>
+    <td><b>#</b></td>
+    <td><b>Problema</b></td>
+    <td><b>Escala de Severidad</b></td>
+    <td><b>Heurística/Principio violada(o)</b></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</Table>
 
 ## 5.4. Video About-the-Product
+![imgvideo](/Docs/assets/sprint3/Presentacion%20hoja%20de%20papel%20creativa%20rosado.png)
 
-Link del video: ![link]()
+Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
 
 
