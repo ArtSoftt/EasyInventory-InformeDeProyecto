@@ -156,7 +156,7 @@ Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://git
 
 | Criterio Especifico                                                                                                                                 | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                  | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>* __Remplazar__<br>Morales Quispe Brayan Smith <br> __TB1__ <br>* __Remplazar__<br> Miranda Sinarahua Piero <br> __TB1__ <br>Taype Fernandez Leonardo: Me comprometi a desarrollar la sección de competidores <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br>                                                  | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>* __Remplazar__<br>Morales Quispe Brayan Smith <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB3__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3 <br> Miranda Sinarahua Piero <br> __TB1__ <br>Taype Fernandez Leonardo: Me comprometi a desarrollar la sección de competidores <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br>                                                  | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
 | Conoce al menos un sector empresarial o dominio de aplicación de oluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>* __Remplazar__<br>Morales Quispe Brayan Smith <br> __TB1__ <br>* __Remplazar__<br> Miranda Sinarahua Piero <br> __TB1__ <br> Leonardo: Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br> | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
 
 -----
@@ -1642,7 +1642,7 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
 <!--Cambiar links-->
 **Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories) 
 
-**Arsoft Backend Deployed:** [https://fghgfp-webapp-v1.web.app/](https://fghgfp-webapp-v1.web.app/) 
+**Arsoft Backend Deployed:** [http://pol12345-001-site1.btempurl.com/swagger/index.html](http://pol12345-001-site1.btempurl.com/swagger/index.html) 
 
 
 #### 5.2.3.1.Spring Planning 3.
@@ -1945,7 +1945,7 @@ En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos
     <td align="center"> <strong>Funciones</strong> </td>
   </tr>
   <tr>
-    <td> Link del api</td>
+    <td> http://pol12345-001-site1.btempurl.com/swagger/index.html</td>
     <td> API de EasyInventory</td>
   </tr>
   <tr>
@@ -1966,15 +1966,15 @@ Se puede ver todos  los metodos implementados en estre sprint ademas de estar ej
 <!--Agregar imagenes-->
 En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
 
-![Cantidad de commits(Grafica de barras)]()
+![Cantidad de commits(Grafica de barras)](/Docs//assets//sprint3/graficobarras.png)
 
 En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo. 
 
-![commits.png]()
+![commits.png](/Docs//assets/sprint3/total%20commits.png)
 
 En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro tercer sprint.
 
-![network.png]()
+![network.png](/Docs/assets/sprint3/network.png)
 
 
 
@@ -2024,19 +2024,22 @@ El usuario se dirige a la opción product,para luego rellenar los campos necesar
 lista de productos.
 ### 5.3.2. Registro de Entrevistas.
 **Entrevistas**
-**Nombre y Apellido (1 Entrevistado):** Olga Quispe Garcia
-**Edad:** 51
-**Distrito:** Surquillo
+**Nombre y Apellido (1 Entrevistado):** Julio Licas
+**Edad:** 41 años
+**Distrito:** San Borja
 
-**Nombre y Apellido (2 Entrevistado):** 
-**Edad:**
-**Distrito:**
+**Nombre y Apellido (2 Entrevistado):** Diego Servan
+**Edad:** 20 años
+**Distrito:** San Juan de Lurigancho
 
-**Nombre y Apellido (3 Entrevistado):**
-**Edad:**
-**Distrito:**
+**Nombre y Apellido (3 Entrevistado):** Cintia Yaipen Oliveira
+**Edad:** 41 años
+**Distrito:** Miraflores
 
-**URL:**
+![Entrevista](/Docs/assets/sprint3/entrevistas111.png)
+
+
+**URL:**https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
 
 ### 5.3.3. Evaluaciones según heurísticas.
 <Table>
@@ -2093,3 +2096,27 @@ Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_up
 
 
 
+Entrevista #1:
+- Nombre y apellido: Julio Licas
+- Edad: 41 años
+- Distrito: San Borja
+Entrevista1
+-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EWTnQNIXuLxHtLs4ipMv5TABOnpJmz8guvk2faYdsq1Hqg?e=f3U18N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+- Duración: 4:44 minutos
+- Descripción: En la presente entrevista, el emprendedor nos cuenta como realiza el inventario de sus artículos de venta de forma manual. Él dice que le gusta realizar su trabajo de la forma tradicional pero que es cierto que esto en muchas ocasiones le causa cierta pérdida de tiempo. También nos dice que él está dispuesto a adaptarse a un nuevo método de realizar su inventario si es que este le agiliza este proceso de administración y que le gustaría que este método fuese lo más simple e intuitivo posible.
+Entrevista #2:
+- Nombre y apellido: Diego Servan
+- Edad: 20
+- Distrito: Sjl
+Imagen
+-URL: https://drive.google.com/file/d/1OK8MzVKFYqPFD5WHV6rOtNluX8FpqdrB/view
+- Duración: 6.46
+- Descripción: El presente entrevistado es trabajador de un peqeño local de componentes que tienen un sistema de inventario tradicional
+Entrevista #3:
+- Nombre y apellido: Cintia Yaipen Oliveira
+- Edad: 41
+- Distrito: Miraflores
+Image
+-URL: https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
+- Duración: 5.40
+- Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una apliacion de control de inventario
