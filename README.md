@@ -16,7 +16,7 @@
 * ### Morales Quispe Brayan Smith   u20211f984
 * ### Miranda Sinarahua Piero       u20181g752
 * ### Taype Fernandez Leonardo      u20201e840
-* ### Becerra Llempen Fabiola Dayane u20171a518
+
 
 -----
 
@@ -2093,30 +2093,291 @@ lista de productos.
 
 Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
+### 5.2.4 Sprint 4
+En el cuarto sprint, terminamos de desarrollar la backend de nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de xx puntos.
+
+Repositorio: https://github.com/orgs/ArtSoftt/repositories
+
+#### 5.2.4.1. Sprint Planning 4.
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 4</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-11-12</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>2:00 PM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Morales Quispe Brayan Smith</li>
+        <li>Taype Fernandez Leonardo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de 16 al 18 de setiembre que tuvo como meta el  desarrollo de un avanze de la backend.Se obtuvo como resultado parcial desarrollo de mas de 40% del backend y su despliege en su parcialidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion .El feeback dado al sprint fue (falta feeback)  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo total de la backend y su despliege</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 19 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US05 Ver la información del producto  SP: 3</li>
+        <li>US11 Dashboard SP: 8</li>
+        <li>US02 Agregar un artículo al inventario SP: 8</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>19</td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US02 Agregar un artículo al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollar del componente de agregar un producto</td>
+    <td align="justify"> Se desarrolla la pagina del front end que permitira al usuario agregar un usuario</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del del servicio que usara el componente</td>
+    <td align="center"> Se desarrolla el servicio que realizara los llamados al backend</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Verificacion del componente </td>
+    <td align="center"> Se verificara el perfectamente funcionamiento del componente</td>
+    <td align="center"> 1</td>
+    <td align="center"> Piero</td>
+    <td align="center">Done</td>
+  </tr>
 
 
 
-Entrevista #1:
-- Nombre y apellido: Julio Licas
-- Edad: 41 años
-- Distrito: San Borja
-Entrevista1
--URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EWTnQNIXuLxHtLs4ipMv5TABOnpJmz8guvk2faYdsq1Hqg?e=f3U18N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-- Duración: 4:44 minutos
-- Descripción: En la presente entrevista, el emprendedor nos cuenta como realiza el inventario de sus artículos de venta de forma manual. Él dice que le gusta realizar su trabajo de la forma tradicional pero que es cierto que esto en muchas ocasiones le causa cierta pérdida de tiempo. También nos dice que él está dispuesto a adaptarse a un nuevo método de realizar su inventario si es que este le agiliza este proceso de administración y que le gustaría que este método fuese lo más simple e intuitivo posible.
-Entrevista #2:
-- Nombre y apellido: Diego Servan
-- Edad: 20
-- Distrito: Sjl
-Imagen
--URL: https://drive.google.com/file/d/1OK8MzVKFYqPFD5WHV6rOtNluX8FpqdrB/view
-- Duración: 6.46
-- Descripción: El presente entrevistado es trabajador de un peqeño local de componentes que tienen un sistema de inventario tradicional
-Entrevista #3:
-- Nombre y apellido: Cintia Yaipen Oliveira
-- Edad: 41
-- Distrito: Miraflores
-Image
--URL: https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
-- Duración: 5.40
-- Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una apliacion de control de inventario
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US05 Ver la información del producto</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Creacion de Queries respecto al metodo GET</td>
+    <td align="justify"> Se creara un queries para poder enviar los productos que tiene el usuario en su inventario</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paul</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementacion del metodos GET en el controlador</td>
+    <td align="justify"> Se implementa el metodos GET en el controlador que envier los productos por id y productos en general </td>
+    <td align="center"> 2</td>
+    <td align="center"> Leonardo</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la arquitectura </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo domain-driven-design </td>
+    <td align="center"> 1</td>
+    <td align="center"> Paul</td>
+    <td align="center">Done</td>
+
+  </tr>
+
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US11 Dashboard</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Creacion de Queries respecto al metodo GET</td>
+    <td align="justify"> Se creara un queries para poder enviar lo necesario al dashboard</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paul</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementacion del metodos GET en el controlador</td>
+    <td align="justify"> Se implementa el metodos GET en el controlador que envier lo necesario para implementar el dashboard </td>
+    <td align="center"> 2</td>
+    <td align="center"> Leonardo</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la arquitectura </td>
+    <td align="center"> Se revia la organizacion de carpetas siguiendo domain-driven-design </td>
+    <td align="center"> 1</td>
+    <td align="center"> Paul</td>
+    <td align="center">Done</td>
+
+  </tr>
+
+
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+En este punto se presenta los commits realizados por el equipo de trabajo. 
+
+<!--Remplazar-->
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" align="center"> https://github.com/ArtSoftt/EasyInventory-Backend </td>
+    <td align="center"> main</td>
+    <td align="center"> 5f8ca9212d378352aa40fd67be6061b0f05c2d83</td>
+    <td align="center"> Initial Commit </td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developer</td>
+    <td align="center"> eebdd709abe6715f787630cb9e1cb1cbed1262f9</td>
+    <td align="center"> feat(product): Creation of endpoints product</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feat/Customers</td>
+    <td align="center"> eebdd709abe6715f787630cb9e1cb1cbed1262f9</td>
+    <td align="center"> feat(product): Creation of endpoints product</td>
+    <td align="center"> ---</td>
+    <td align="center"> 02/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feat/Customers</td>
+    <td align="center"> f891966b0baf121d333b748c99b7e5fcc9544358</td>
+    <td align="center"> feat(Customer): Adding CRUD</td>
+    <td align="center"> ---</td>
+    <td align="center"> 02/11/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> feat/Customers </td>
+    <td align="center"> 49c497135521c4fc2898af2ac5cce71102890da7</td>
+    <td align="center"> Update c#.gitignore</td>
+    <td align="center"> ---</td>
+    <td align="center"> 02/11/2023</td>
+  </tr>
+</table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+<!--COMPLETAR-->
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+A continuacion mostraremos la ejecucion de nuestra aplicacion web en su totalidad.
+
+![Ejecuacion del api]()
+Aqui se puede ver que nuestra api se ejecuta y esta lista para conectarse a la backend.
+
+![Ejecuacion de la aplicacion]()
+Aqui se muestra nuestra aplicaion web en ejcuacion implementando la backend y frondend.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+<!--Agregar imagenes-->
+En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST, DELETE y la implementacion de agregar un componente. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
+
+![Cantidad de commits(Grafica de barras)]()
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo. 
+
+![commits.png]()
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro tercer sprint.
+
+![network.png]()
