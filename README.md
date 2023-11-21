@@ -1074,8 +1074,8 @@ node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=8uBQFc3af029shRt-1)
 ### 4.8.1. Database Diagram
 
 Se utilizó Vertabelo para la realización del diagrama de la base de datos.
-
-![database](/Docs/Capitulo%20IV/4.8.%20Database%20Design/images/DB-EasyInventory-2023-09-20_22-03.png)
+Link : https://my.vertabelo.com/doc/oyGKWmntOk3fbASixYTLIxWmJTOgPCGt
+![database](/Docs/Capitulo%20IV/4.8.%20Database%20Design/images/database_diagram.png)
 
 # Capitulo V: Product Implementation, Validation & Deployment
 
