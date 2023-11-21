@@ -47,9 +47,10 @@
 __1) Agosto 12, 2023 - Noviembre 1,2023__
 
 ![](Docs/assets/colaboracion/grafico1.png)
-Actualizacion en este punto del proyecto perdimos dos miembros Piero y Fabiola siendo sus commits estaran pausados en cambio los m,iembros que quedan aumentaron sus commits respecto anteriores entregas
+
 ![](Docs/assets/colaboracion/Networkgraph.png)
 
+Actualizacion en este punto del proyecto perdimos dos miembros Piero y Fabiola siendo sus commits estaran pausados en cambio los demas miembros que quedan, estos aumentaron sus commits respecto anteriores entregas
 
 Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
 
@@ -167,8 +168,8 @@ Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://git
 
 | Criterio Especifico                                                                                                                                 | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                  | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB3__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>Morales Quispe Brayan Smith <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB3__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3 <br> Miranda Sinarahua Piero <br> __TB1__ <br>Taype Fernandez Leonardo: Me comprometi a desarrollar la sección de competidores <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br>                                                  | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB3__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>Morales Quispe Brayan Smith <br> __TB1__ <br>* __Remplazar__<br> Miranda Sinarahua Piero <br> __TB1__ <br> Leonardo: Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TB1__ <br>* __Remplazar__<br>  Becerra Llempen Fabiola Dayane <br> __TB1__ <br>* __Remplazar__<br> | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | __Vega Sayritupac Paul Kennedin__ <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB2__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB2__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3 <br> Miranda Sinarahua Piero <br> __TF__ <br>__Taype Fernandez Leonardo__ <br> __TB1__ <br> Me comprometi a desarrollar la sección de competidores<br>                                                    | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB2__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br> __* Remplazar__ <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br><br> __Leonardo__ <br> __TB1__ <br>  Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br>   | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
 
 -----
 
@@ -1143,6 +1144,13 @@ la comunicación en tiempo real, edición al instante y compartida al mismo tiem
     <td>El programa fue usado para acceder a la base de datos </td>
     <td>https://dev.mysql.com/downloads/mysql/ </td>
   </tr>
+
+  <tr>
+    <td><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="80" height="80"></td>
+    <td>MySQL 8.0 </td>
+    <td>Motor de Base de Datos Relacional Usado para el desarrollo de nuestra aplicacion Web </td>
+    <td>https://dev.mysql.com/downloads/mysql/ </td>
+  </tr>
 </table>
 
 
@@ -1415,8 +1423,21 @@ En esta sección el usuario podrá contactarnos a nuestro correo.
 En esta sección tendremos el pie de pagina dónde el usuario visualizará informacion relevante.
 
 ![Evidence-6](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/Footer.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-Como se mencionó anteriormente, debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos documentar la relación de los endpoint.
+Para este sprint se hizo el despliege del landing page que se realizo en GitHub Pages
+<table>
+  <tr>
+    <th>Link</th>
+    <th>Funciones</th>
+  <tr>
+
+  <tr>
+    <td>https://artsoftt.github.io/EasyInventory-LandingPage/</td>
+    <td>Despliege del Lanfig Page en GitHub Pages</td>
+  <tr>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 El deploymento del landing page se realizó mediante GithubPages.
 
