@@ -29,14 +29,25 @@
 | 0.1     | 14/09/23 | Piero        | Desarrollo del capitulo II y  III |
 | 0.2     | 18/09/23 | Brayan Smith | Reorganizacion del documento      |
 | 0.3     | 22/09/23 | Piero Miranda | Correcciones en el capitulo I    |
-| 1       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Piero <br>| Sprint 2                         |
-| 1.5       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Piero <br> | Sprint 3                         |
+| 1       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Paul <br>| Sprint 2  |
+| 1.5       | 22/10/23 |  Brayan Smith  | Sprint 3-sprint planing  |
+| 1.6       | 23/10/23 |  Paul Kennedin  | Sprint 3-product backload  |
+| 1.9       | 24/10/23 |  leonardo  | agregar las entrevistas y validaciones  |
+| 2.0      | 28/10/23 |  Paul Kennedin  | agregar las evidencias del despliege  |
+| 2.1      | 20/11/23 |  Leonardo  | Arreglo de los diagramas de clases y base de datos  |
+| 2.2      | 20/11/23 |  Brayan  | Arreglo del 4.6. Domain-Driven Software Architecture  |
+| 2.3      | 20/11/23 |  Paul Kennedin  | Arreglo del sprint 1  |
+| 2.4      | 20/11/23 |  Brayan Smith  | Arreglo del sprint 2  |
+| 2.5      | 20/11/23 |  Brayan Smith  | Arreglo del capitulo 5   |
+
 
 
 ## Project Report Collaboration Insights 
 
+__1) Agosto 12, 2023 - Noviembre 1,2023__
 
 ![](Docs/assets/colaboracion/grafico1.png)
+Actualizacion en este punto del proyecto perdimos dos miembros Piero y Fabiola siendo sus commits estaran pausados en cambio los m,iembros que quedan aumentaron sus commits respecto anteriores entregas
 ![](Docs/assets/colaboracion/Networkgraph.png)
 
 
@@ -1084,79 +1095,257 @@ Se utilizó Vertabelo para la realización del diagrama de la base de datos.
 ### 5.1.1. Software Development Environment Configuration
 
 Para poder gestionar los avances y tener una buena organización, empleamos herramientas de software que nos permitieron
-la comunicación en tiempo real, edición al instante y compartida al mismo tiempo. Algunos de estas herramientas fueron
-Discord, Google Drive, Github, Documentos de Google y Git.
+la comunicación en tiempo real, edición al instante y compartida al mismo tiempo. Algunos de estas herramientas fueron:
+
+
+
+<table>
+  <tr>
+    <th>Programa</th>
+    <th>Nombre</th>
+    <th>Usado</th>
+    <th>Link</th>
+  </tr>
+
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"></td>
+    <td>Visual Studio Code</td>
+    <td>El programa fue usado en la realización del informe y desarrollo del landingPage</td>
+    <td>https://code.visualstudio.com/download </td>
+    
+  </tr>
+
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="50" height="50"></td>
+    <td>WebStorm</td>
+    <td>El programa fue usado en la realización de la frontend con vite vue.js</td>
+    <td>https://www.jetbrains.com/es-es/products/#type=ide-vs </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" width="80" height="80"></td>
+    <td>Discord</td>
+    <td>El programa fue usado para la comunicacion del equipo de trabajo</td>
+    <td>https://discord.com/ </td> 
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" width="80" height="80"></td>
+    <td>Rider</td>
+    <td>El programa fue usado para el desarrollo de la backend este maneja el lenguaje c# </td>
+    <td>https://www.jetbrains.com/es-es/products/#type=ide-vs </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="80" height="80"></td>
+    <td>MySQL Workbench</td>
+    <td>El programa fue usado para acceder a la base de datos </td>
+    <td>https://dev.mysql.com/downloads/mysql/ </td>
+  </tr>
+</table>
+
 
 ## Product UX/UI Design
 
-Para esta parte empleamos Uxpressia y para los As-Is/To-Be Scenario Mapping se utilizó plantillas proporcionadas por el
-mismo enunciado del trabajo. Para el desarrollo de la landing page y web applications, primero se diseñó los prototipos
-en Figma los Wireframes y Mockups.
+Parael Ux/Ui Design usamos los siguientes softwares:
 
-## Software Development
+<table>
+  <tr>
+    <th>Programa</th>
+    <th>Nombre</th>
+    <th>Usado</th>
+    <th>Link</th>
+  </tr>
 
-Para el desarrollo del software para este trabajo se hizo uso de las siguientes herramientas:
+  <tr>
+    <td><img src="https://i.pinimg.com/564x/7f/cf/75/7fcf759c2cea7de5e524ecd44f2eb8c6.jpg" width="70" height="70"></td>
+    <td>Mirro</td>
+    <td>Software usado para la realizacion de impact maps y realizacion,Scenario mapping</td>
+    <td>https://miro.com/es/</td>
+  </tr>
 
-* **HTML** : Lenguaje de uso común para páginas web o aplicaciones web.
-* **CSS** : guaje para el diseño que trabaja de la mano con HTML para poder generar una página web presentable con
-  colores y de manera más organizada.
-* **Webstorm** : Es un IDE donde se puede trabajar de manera compartida y multiplataforma, donde se puede programar en
-  varios lenguajes para el desarrollo web como HTML, CSS, JavaScript, TypeScript, Angular, etc.
-* **Github** : Lo utilizamos para almacenar todos los cambios realizados durante el ciclo de vida de la aplicación.
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" width="50" height="70"></td>
+    <td>Figma</td>
+    <td>Software usado para la realizacion de los wireframes, mockups y user diagrams flow</td>
+    <td>https://www.figma.com/</td>
+  </tr>
+
+  <tr>
+    <td><img src="https://avatars.slack-edge.com/2022-07-26/3865608556737_8f4ae4a98b36ab6912b3_512.png" width="50" height="50"></td>
+    <td>LuciChart</td>
+    <td>Software usado para la realizacion del diagrama de clases</td>
+    <td>https://lucid.app/</td>
+  </tr>
+
+   <tr>
+    <td><img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1486988817/nvwuj5ja88anobbwubi2.png" width="50" height="50"></td>
+    <td>Vertabelo</td>
+    <td>Usado para el desarrollo del diagrama de Base de Datos</td>
+    <td>http://vertabelo.com/</td>
+  </tr>
+
+
+ 
+</table>
+
+## Software Deployment
+El software usado para despliege de nuestra aplicaion web fue:
+<table>
+  <tr>
+    <th>Programa</th>
+    <th>Nombre</th>
+    <th>Usado</th>
+    <th>Link</th>
+  </tr>
+
+  <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ocx3yMTJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg" width="170" height="60"></td>
+    <td>GitHub Pages</td>
+    <td>Usado para desplegar el landig page</td>
+    <td>https://pages.github.com/</td>
+  </tr>
+
+</table>
 
 ## Software Testing
 
 Para hacer las pruebas de funcionamiento de nuestro landing page empleamos navegadores de internet como Chrome, gracias
 a que se puede ver los cambios que realizamos en el código hecho en HTML, CSS y JavaScript.
 
-## Software Deployment
+<table>
+  <tr>
+    <th>Programa</th>
+    <th>Nombre</th>
+    <th>Usado</th>
+    <th>Link</th>
+  </tr>
 
-Para el despliegue de la landing page, al no ser una página que se deba modificar a cada momento y es fijo, entonces no
-se necesita actualizaciones, solo usamos el control de versiones de Github.
+  <td><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50"></td>
+    <td>PostMan</td>
+    <td>Se uso para la pruebas de las peticiones al backend</td>
+    <td>https://www.postman.com/downloads/</td>
+  </tr>
+
+  <td><img src="https://camo.githubusercontent.com/f725b7a314d523d78005509f98c436a1fcf2883fd39cb9e5b83346f6bddb599a/687474703a2f2f6a736f6e6170692e6f72672f696d616765732f6a736f6e6170692e706e67" width="70" height="50"></td>
+    <td>JasonServer</td>
+    <td>Se uso para las pruebas de frontend, simulando la backend </td>
+    <td>https://www.npmjs.com/package/json-server</td>
+  </tr>
+
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="50" height="50"></td>
+    <td>Navegador Chrome</td>
+    <td>Se uso el navegador para la realizacion de pruebas de landing page y la frontend</td>
+    <td>https://www.google.com/intl/es_es/chrome/?brand=YTUH&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMozgYO8SxF8uvZ1-EaVlClJHWba2EahM6YvRWIBKrKK3-92HoYvTjAaAiHAEALw_wcB&gclsrc=aw.ds</td>
+  </tr>
+
+</table>
+
+
 
 ## Software Documentation
 
-En la documentación, como utilizamos HTML para el corto desarrollo del landing page, este tipo de lenguaje no necesita
-diagramas de clases porque es un lenguaje de etiquetas, por lo que la documentación se hizo mediante comentarios en el
-código presente en el Github.
+El software usado para la documentacion es el siguiente:
+
+<table>
+  <tr>
+    <th>Programa</th>
+    <th>Nombre</th>
+    <th>Usado</th>
+    <th>Link</th>
+  </tr>
+
+  <td><img src="https://mvnrepository.com/img/ae6cb54d78c70653ac784621f78188c8" width="50" height="50"></td>
+    <td>SpringDoc OpenAPI</td>
+    <td>Fue usado para llevar acabo la documentacion en la backend</td>
+    <td>SpringDoc OpenAPI Starter WebMVC UI</td>
+  </tr>
+
+</table>
 
 ### 5.1.2. Source Code Management
 
 Para el ciclo de vida de desarrollo del proyecto usaremos el sistema que nos ofrece Git que es el control de versiones,
 el cual se irá evidenciando en el Github de nuestra organización, donde podrá visualizar todos los cambios y
-modificaciones realizados por cada miembro del equipo. Los branches que mostraremos en el repositorio hasta el momento
-será el siguiente:
-**Main:** Este contendrá las versiones estables del proyecto y oficiales para una mejor organización.
-Github URL:
+modificaciones realizados por cada miembro del equipo. 
+
+__Link del Repositorio:__ [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
+
 |**Alumno**|**Correo**|**Usuario de GitHub**|
 |---------|--------|-------|
 |Paul Vega |u20201b333@upc.edu.pe|Paul Vega|
 |Brayan Smith|u20211f984@upc.edu.pe|Brys83|
-|Fabiola Becerra|u20171a518|fabidayanee|
 |Leonardo Taype|u20201e840@upc.edu.pe|Leo2426|
-|-|-|-|
+
+En la siguiente tabla mostramos los repositorios ne nuestra organizacion:
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Link</th>
+  </tr>
+
+  <tr>
+    <th>EasyInventory-InformeDeProyecto</h>
+    <td>https://github.com/ArtSoftt/EasyInventory-InformeDeProyecto</td>
+  </tr>
+
+  <tr>
+    <th>EasyInventory-FrontEnd</th>
+    <td>https://github.com/ArtSoftt/EasyInventory-FrontEnd</td>
+  </tr>
+
+  <tr>
+    <th>EasyInventory-Backend</th>
+    <td>https://github.com/ArtSoftt/EasyInventory-Backend</td>
+  </tr>
+
+  <tr>
+    <th>EasyInventory-LandingPage</th>
+    <td>https://github.com/ArtSoftt/EasyInventory-LandingPage</td>
+  </tr>
+</table>
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
+Se usaron las siguientes source style y conventions para el desarrollo de landing page, frontend y backend.
 
-Para el avance del código, se planeó utilizar las convenciones descritas en HTML Style Guide and Coding Conventions para
-esta parte del trabajo.
-Para este proyecto se utilizaron las principales convenciones para HTML que incluyen:
-
-1. Declaración del tipo de documento en HTML.
-2. Uso de nombres de elementos en minúsculas en HTML.
-3. Cerrar todos los elementos en HTML.
-4. Uso de nombres de atributos en minúsculas y valores en HTML.
-5. Utilizar comillas dobles para los valores de los atributos en HTML.
-   Estas convenciones ayudan a mantener la consistencia y la legibilidad del código HTML. Además, es importante seguir
-   las convenciones de codificación para hacer que el código sea más fácil de entender y darle mantenimiento
+#### LandingPage
+* __HTML__
+Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y formato.
+  * Utiliza minúsculas para las etiquetas y atributos HTML.
+  * La indentación debe ser consistente, típicamente con dos o cuatro espacios.
+  * Evita estilos y scripts en línea siempre que sea posible.
+* __CSS__
+Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y formato.
+  * Usa nombres significativos para clases e IDs.
+  * Separa palabras en nombres de clases con guiones (-) estilo kebab-case.
+  * Agrupa propiedades CSS de manera lógica y mantiene una indentación consistente.
+* __JavaScript__
+Sigue el "Google JavaScript Style Guide", "MDN JavaScript guidelines", "W3C JavaScript Style Guide" y "Vue Style Guide".
+  * Usa camelCase para nombres de variables y funciones.
+  * Utiliza punto y coma para finalizar declaraciones.
+  * Siempre declara variables con const o let para hacer cumplir el ámbito de bloque.
+  * Evita el uso de variables globales siempre que sea posible.
+  * Mantiene una indentación consistente (típicamente dos o cuatro espacios).
+#### Escenas de Usuario
+* __Gherkin__
+  * Sigue las "Gherkin Conventions for Readable Specifications".
+  Utiliza un lenguaje descriptivo y orientado a negocios en los escenarios de Gherkin.
+  * Mantén los escenarios cortos, centrados y legibles.
+  Usa palabras clave como Given, When, Then, And, But de manera consistente.
+#### Backend
+* __C#__
+Sigue las "C# Coding Conventions" y las "Microsoft ASP.NET Core Coding Guidelines".
+  * Usa PascalCase para nombres de clases y métodos.
+  * Usa camelCase para nombres de variables y parámetros.
+  * Siempre usa llaves para las declaraciones de flujo de control, incluso para declaraciones de una sola línea.
+  * Mantén métodos y clases enfocados en una sola responsabilidad.
+  * Utiliza nombres significativos y claros para variables, métodos y clases.
 
 ### 5.1.4. Software Deployment Configuration
 
-Para el despliegue de nuestra landing page, en el campo de las configuraciones debemos tener presente lo siguiente:
-tener un archivo en formato HTML llamado index.HTML con otras carpetas o directorios con los nombres:
-Assets: Contiene el archivo style.css
-Scripts: Contiene el archivo script.js
-Image: Contiene las imágenes utilizadas para la página web.
+Arreglar
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -1166,14 +1355,14 @@ Image: Contiene las imágenes utilizadas para la página web.
 El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum. Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. El equipo de desarrollo también define los elementos del backlog del sprint y crea un plan detallado para poder completarlos. La reunión suele durar unas pocas horas y participan todos los miembros del equipo Scrum, incluyendo el Scrum Master y el Product Owner. El objetivo principal del Sprint Planning es crear una visión clara y compartida de lo que se va a conseguir durante el Sprint y cómo se va a lograr
 | Sprint #| Sprint 1|
 |---------|---------|
-|Sprint Planing Background||
+|Sprint Planing Background|
 |Date| 2023-09-15|
 |Time | 23:19|
 |Location| Reunion Virtual(Plataforme Discord)|
 |Prepared By| Paul Vega / Brayan Morales|
 |Attendees (to planning meeting)| Fabiola Becerra/ Paul Vega/ Brayan Morales/Piero Miranda/Leonarde Taype|
-|Sprint 1- 1 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
-|Sprint 1 - 1 Retrospective Summary| Como primer Sprint , hemos notado que aún hay varias secciones por mejorar como el nivel de trabajo en equipo, la comunicacón entre integrantes|
+|Sprint 0 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
+|Sprint 0 Retrospective Summary| Como primer Sprint , hemos notado que aún hay varias secciones por mejorar como el nivel de trabajo en equipo, la comunicacón entre integrantes|
 |Sprint Goals & User Stories||
 |Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page, así como también la organización e implementación de la documentación.
 |Sprint 1 Velocity| Creación del Landing Page|
