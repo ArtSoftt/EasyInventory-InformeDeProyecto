@@ -168,8 +168,8 @@ Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://git
 
 | Criterio Especifico                                                                                                                                 | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                  | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | __Vega Sayritupac Paul Kennedin__ <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB2__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB2__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3 <br> Miranda Sinarahua Piero <br> __TF__ <br>__Taype Fernandez Leonardo__ <br> __TB1__ <br> Me comprometi a desarrollar la sección de competidores<br>                                                    | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB2__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br> __* Remplazar__ <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br><br> __Leonardo__ <br> __TB1__ <br>  Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br>   | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | __Vega Sayritupac Paul Kennedin__ <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB2__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB2__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3  <br> __TF__ <br> En esta entrega termine de arregalr la front end y implemente el controlador sales en la backend<br>__Taype Fernandez Leonardo__ <br> __TB1__ <br> Me comprometi a desarrollar la sección de competidores<br>                                                    | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB2__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br> En esta entrega aprendi lo que se busca mostrar al publico al tener que llevar acabo un landing page <br> __TP__ <br>* Aprendi el diseño que se debe tener para el desarrollo de una aplcacion web de inventario<br> __TB2__ <br>Aprendi a tener en cuenta la arquitectura al momento de desarrollar aplicaciones<br> __TF__ <br>* Aprendi a tener en cuenta lo que busca una app de inventario enfocada en componentes electronicos siendo esta un inventario preciso que busque reducir costos<br><br> __Leonardo__ <br> __TB1__ <br>  Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br>   | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
 
 -----
 
@@ -1369,8 +1369,8 @@ El Sprint Planning es un evento o reunión que se realiza al inicio de cada Spri
 |Location| Reunion Virtual(Plataforme Discord)|
 |Prepared By| Paul Vega / Brayan Morales|
 |Attendees (to planning meeting)| Fabiola Becerra/ Paul Vega/ Brayan Morales/Piero Miranda/Leonarde Taype|
-|Sprint 0 Review Summary| Dado que es nuestro primer Sprint, se cuenta con los avances y finalización de los puntos de la documentación de este entregable.|
-|Sprint 0 Retrospective Summary| Como primer Sprint , hemos notado que aún hay varias secciones por mejorar como el nivel de trabajo en equipo, la comunicacón entre integrantes|
+|Sprint 0 Review Summary| Como retrospectiva tenemos que se desarrollo el diseño de la aplicacion web,se definio los user stories,se definio las herrmaientas a usar, se desarrollo los diagramas c4, el diagrama de clases, diagrama de base de datos.|
+|Sprint 0 Retrospective Summary|  Los integrantes notamos cierta descordinacion en el desarrollo de nuestro trabajo.Siendo la causa la mala comunicacion que tuvimos.|
 |Sprint Goals & User Stories||
 |Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page, así como también la organización e implementación de la documentación.
 |Sprint 1 Velocity| Creación del Landing Page|
@@ -1515,7 +1515,7 @@ En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos ll
 
   <tr>
     <td><strong>Sprint 2 Goal</strong></td>
-    <td>El objetivo del sprint es el desarrollo de la frontend en  un 40%</td>
+    <td>Desarrollar vista de Productos,Perfil y Provedores de la frontend </td>
   </tr>
 
   <tr>
@@ -1537,7 +1537,7 @@ En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos ll
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
-A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
+A continuación, presentaremos nuestro sprint backlog que se realizo tomando en cuenta las habilidades del equipo.
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -1808,12 +1808,15 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
 Despues de completar el sprint 2, lograr implementar y desplegar la seccion del dashboard y vista de perfil.
 **Evidencia:**
 * **NOMBRE DE LA SECCIÓN:** 
-**Imagen 1:** Home(Dashboard)
-![Home]()
-**Imagen 2:** Product(Dashboard)
-![Producto]()
-**Imagen 3:** Perfil(Dashboard)
-![Perfil]()
+**Imagen 1:** Home
+![Home](./Docs/assets/sprint2/home-sprint2.png)
+En esta parte se puede ver la ejecucion de la front end de nuestra aplicacion werb siendo la vista del home donde muestra resmunes de ventas,provedores y productos
+**Imagen 2:** Product
+![Producto](./Docs/assets/sprint2/products-sprint2.png)
+En esta parte se muestra la vista de productos donde se muestra todos los productos y se puede realizar busquedas de un determinado producto ademas de darnos acceso a la pagina de agregar producto
+**Imagen 3:** Login
+![Perfil](./Docs/assets/sprint2/login-sprint2.png)
+En esta parte se muestra nuestro login de la aplicacion 100% funcional. 
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "EasyInventory".
@@ -1919,12 +1922,12 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
   </tr>
 
   <tr>
-    <td><strong>Sprint 2 Goal</strong></td>
-    <td>El objetivo del sprint es el desarrollo de la backend en  un 40%</td>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo del controlador Product.</td>
   </tr>
 
   <tr>
-    <td><strong>Sprint 2 Velocity</strong></td>
+    <td><strong>Sprint 3 Velocity</strong></td>
     <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
       <ol type="A">
         <li>US03 Ver las cantidades de cada producto SP: 5</li>
@@ -2372,7 +2375,7 @@ Repositorio: https://github.com/orgs/ArtSoftt/repositories
 
   <tr>
     <td><strong>Sprint 4 Goal</strong></td>
-    <td>El objetivo del sprint es el desarrollo total de la backend y su despliege</td>
+    <td>El objetivo del sprint es el desarrollo total de la backend y su despliege con la frontend</td>
   </tr>
 
   <tr>
