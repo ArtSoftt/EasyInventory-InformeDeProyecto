@@ -17,32 +17,29 @@
 * ### Miranda Sinarahua Piero       u20181g752
 * ### Taype Fernandez Leonardo      u20201e840
 
-
 -----
 
 ## Registro de Versiones Del Informe
 
-| Version | Fecha    | Autor        | Descripcion de modificacion       |
-|---------|----------|--------------|-----------------------------------|
-| 0.1     | 14/09/23 | Paul         | Desarrollo del capitulo I         |  
-| 0.1     | 14/09/23 | Fabiola      | Desarrollo del capitulo II        |
-| 0.1     | 14/09/23 | Piero        | Desarrollo del capitulo II y  III |
-| 0.2     | 18/09/23 | Brayan Smith | Reorganizacion del documento      |
-| 0.3     | 22/09/23 | Piero Miranda | Correcciones en el capitulo I    |
-| 1       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Paul <br>| Sprint 2  |
-| 1.5       | 22/10/23 |  Brayan Smith  | Sprint 3-sprint planing  |
-| 1.6       | 23/10/23 |  Paul Kennedin  | Sprint 3-product backload  |
-| 1.9       | 24/10/23 |  leonardo  | agregar las entrevistas y validaciones  |
-| 2.0      | 28/10/23 |  Paul Kennedin  | agregar las evidencias del despliege  |
-| 2.1      | 20/11/23 |  Leonardo  | Arreglo de los diagramas de clases y base de datos  |
-| 2.2      | 20/11/23 |  Brayan  | Arreglo del 4.6. Domain-Driven Software Architecture  |
-| 2.3      | 20/11/23 |  Paul Kennedin  | Arreglo del sprint 1  |
-| 2.4      | 20/11/23 |  Brayan Smith  | Arreglo del sprint 2  |
-| 2.5      | 20/11/23 |  Brayan Smith  | Arreglo del capitulo 5   |
+| Version | Fecha    | Autor                                                             | Descripcion de modificacion                          |
+|---------|----------|-------------------------------------------------------------------|------------------------------------------------------|
+| 0.1     | 14/09/23 | Paul                                                              | Desarrollo del capitulo I                            |  
+| 0.1     | 14/09/23 | Fabiola                                                           | Desarrollo del capitulo II                           |
+| 0.1     | 14/09/23 | Piero                                                             | Desarrollo del capitulo II y  III                    |
+| 0.2     | 18/09/23 | Brayan Smith                                                      | Reorganizacion del documento                         |
+| 0.3     | 22/09/23 | Piero Miranda                                                     | Correcciones en el capitulo I                        |
+| 1       | 22/09/23 | * Piero Miranda<br>* Brayan Smith <br> * Fabiola <br> * Paul <br> | Sprint 2                                             |
+| 1.5     | 22/10/23 | Brayan Smith                                                      | Sprint 3-sprint planing                              |
+| 1.6     | 23/10/23 | Paul Kennedin                                                     | Sprint 3-product backload                            |
+| 1.9     | 24/10/23 | leonardo                                                          | agregar las entrevistas y validaciones               |
+| 2.0     | 28/10/23 | Paul Kennedin                                                     | agregar las evidencias del despliege                 |
+| 2.1     | 20/11/23 | Leonardo                                                          | Arreglo de los diagramas de clases y base de datos   |
+| 2.2     | 20/11/23 | Brayan                                                            | Arreglo del 4.6. Domain-Driven Software Architecture |
+| 2.3     | 20/11/23 | Paul Kennedin                                                     | Arreglo del sprint 1                                 |
+| 2.4     | 20/11/23 | Brayan Smith                                                      | Arreglo del sprint 2                                 |
+| 2.5     | 20/11/23 | Brayan Smith                                                      | Arreglo del capitulo 5                               |
 
-
-
-## Project Report Collaboration Insights 
+## Project Report Collaboration Insights
 
 __1) Agosto 12, 2023 - Noviembre 1,2023__
 
@@ -50,7 +47,8 @@ __1) Agosto 12, 2023 - Noviembre 1,2023__
 
 ![](Docs/assets/colaboracion/Networkgraph.png)
 
-Actualizacion en este punto del proyecto perdimos dos miembros Piero y Fabiola siendo sus commits estaran pausados en cambio los demas miembros que quedan, estos aumentaron sus commits respecto anteriores entregas
+Actualizacion en este punto del proyecto perdimos dos miembros Piero y Fabiola siendo sus commits estaran pausados en
+cambio los demas miembros que quedan, estos aumentaron sus commits respecto anteriores entregas
 
 Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
 
@@ -143,33 +141,30 @@ Link del repositorio:[https://github.com/orgs/ArtSoftt/repositories](https://git
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-
-
-
     - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1.Spring Planning 3.](#5231spring-planning-3)
-      - [5.2.3.2.Sprint Backlog 3.](#5232sprint-backlog-3)
-      - [5.2.3.3.Development Evidence for Sprint Review.](#5233development-evidence-for-sprint-review)
-      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
-      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews.](#53-validation-interviews)
-  - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-the-Product](#54-video-about-the-product)
+        - [5.2.3.1.Spring Planning 3.](#5231spring-planning-3)
+        - [5.2.3.2.Sprint Backlog 3.](#5232sprint-backlog-3)
+        - [5.2.3.3.Development Evidence for Sprint Review.](#5233development-evidence-for-sprint-review)
+        - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+        - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
 
+- [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
 
 -----
 
 ## Student Outcome
 
-| Criterio Especifico                                                                                                                                 | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                  | 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | __Vega Sayritupac Paul Kennedin__ <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB2__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB2__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3  <br> __TF__ <br> En esta entrega termine de arregalr la front end y implemente el controlador sales en la backend<br>__Taype Fernandez Leonardo__ <br> __TB1__ <br> Me comprometi a desarrollar la sección de competidores<br>                                                    | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB2__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br> En esta entrega aprendi lo que se busca mostrar al publico al tener que llevar acabo un landing page <br> __TP__ <br>* Aprendi el diseño que se debe tener para el desarrollo de una aplcacion web de inventario<br> __TB2__ <br>Aprendi a tener en cuenta la arquitectura al momento de desarrollar aplicaciones<br> __TF__ <br>* Aprendi a tener en cuenta lo que busca una app de inventario enfocada en componentes electronicos siendo esta un inventario preciso que busque reducir costos<br><br> __Leonardo__ <br> __TB1__ <br>  Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TP__ <br>* __Remplazar__<br> __TB2__ <br>* __Remplazar__<br> __TF__ <br>* __Remplazar__<br>   | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
+| Criterio Especifico                                                                                                                                 | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                  | 
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | __Vega Sayritupac Paul Kennedin__ <br> __TB1__ <br>En esta entrega diseñamos las interfaces que tendria nuestra aplicación ,tanto el front como el backend.<br> __TP__ <br> En esta entrega implementamos vistas del frontend y utilizamos fakeapi junto a jsonserver<br> __TB2__ <br> Para esta entrega tuvimos que hacer endpoints de nuestros boundend context en los cuales aporte haciendo algunos agreggates.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br>En esta entrega me encarge del diseño de nuestra aplicacion deacuerdo a lo acordado en grupo.<br> __TP__ <br>*En esta entrega me encarge del desarrollo de la vista de sales de la front end<br> __TB2__ <br>*En esta entrega me encarge de la organizacion y realizacion del sprint 3  <br> __TF__ <br> En esta entrega termine de arregalr la front end y implemente el controlador sales en la backend<br>__Taype Fernandez Leonardo__ <br> __TB1__ <br> Me comprometi a desarrollar la sección de competidores<br>   <br> __TB2__ <br> Me comprometi en el despliegue del backend ademas de refactorizar el front end<br> <br> __TF__ <br> En esta entrega corregi algunos puntos del informe ademas investigue formas de desplegar el backend y base de datos<br>                                                                                                                                                                                                                                                                                                               | Leonardo: Con la resolucion de la seccion de competidores identifique los puntos de mejora para nuestra solucion de software. | 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                             | Vega Sayritupac Paul Kennedin <br> __TB1__ <br>Para estre entregable analizamos el contexto en el que estamos cada uno y optamos por la mejor decision para formar una startupt.<br> __TP__ <br>Analizamos el sector que decidimos tomar para realizar las entrevistas de  validación de diseño con el cual decidimos que patrones utilizariamos para mejorar el proyect.<br> __TB2__ <br>Para este entrgable tuvimos que entender la logica de negocio, el core de nuestra idea para realizar los endpoints que necesitariamso mas adelante.<br>__Morales Quispe Brayan Smith__ <br> __TB1__ <br> En esta entrega aprendi lo que se busca mostrar al publico al tener que llevar acabo un landing page <br> __TP__ <br>* Aprendi el diseño que se debe tener para el desarrollo de una aplcacion web de inventario<br> __TB2__ <br>Aprendi a tener en cuenta la arquitectura al momento de desarrollar aplicaciones<br> __TF__ <br>* Aprendi a tener en cuenta lo que busca una app de inventario enfocada en componentes electronicos siendo esta un inventario preciso que busque reducir costos<br><br> __Leonardo__ <br> __TB1__ <br>  Decidimos ejecutar el trabajo en base a las necesidades de las personas con un negocio en venta de partes electronicas <br> __TP__ <br> Decidimos crear un front end amigable para el usuario final.<br> __TB2__ <br>En esta entrega comprendi mejor el funcionamiento de un manejo de ventas en un backend. <br> __TF__ <br> En esta entrega comprendi la importancia de un correcto manejo de inventario. <br> | Leonardo: Al elegir un segmento específico podremos desarrollar un software que cumpla con las especificaciones               | 
 
 -----
 
@@ -421,24 +416,35 @@ __Preguntas sobre el proyecto:__
 
 * ### Entrevista #2:
 
- #### - Nombre y apellido: Diego Servan
- #### - Edad: 20
- #### - Distrito: Sjl
- ####  ![Imagen](/Docs/Capitulo%20II/2.2.%20Entrevistas/img/entrevista-diego%20servan.png)
-  ####  -URL: https://drive.google.com/file/d/1OK8MzVKFYqPFD5WHV6rOtNluX8FpqdrB/view
- #### - Duración: 6.46
- #### - Descripción: El presente entrevistado es trabajador de un peqeño local de componentes que tienen un sistema de inventario tradicional 
+#### - Nombre y apellido: Diego Servan
 
- * ### Entrevista #3:
- #### - Nombre y apellido: Cintia Yaipen Oliveira
- #### - Edad: 41
- #### - Distrito: Miraflores
- ####  ![Image](/Docs/Capitulo%20II/2.2.%20Entrevistas/img/entrevista%203.png)
-  ####  -URL: https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
- #### - Duración: 5.40
- #### - Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una  apliacion de control de inventario 
+#### - Edad: 20
 
+#### - Distrito: Sjl
 
+#### ![Imagen](/Docs/Capitulo%20II/2.2.%20Entrevistas/img/entrevista-diego%20servan.png)
+
+#### -URL: https://drive.google.com/file/d/1OK8MzVKFYqPFD5WHV6rOtNluX8FpqdrB/view
+
+#### - Duración: 6.46
+
+#### - Descripción: El presente entrevistado es trabajador de un peqeño local de componentes que tienen un sistema de inventario tradicional
+
+* ### Entrevista #3:
+
+#### - Nombre y apellido: Cintia Yaipen Oliveira
+
+#### - Edad: 41
+
+#### - Distrito: Miraflores
+
+#### ![Image](/Docs/Capitulo%20II/2.2.%20Entrevistas/img/entrevista%203.png)
+
+#### -URL: https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
+
+#### - Duración: 5.40
+
+#### - Descripción: la presente entrevista es dueña de un negocio de componentes pero no tiene una  apliacion de control de inventario
 
 ## 2.3. Needfinding
 
@@ -1113,7 +1119,7 @@ la comunicación en tiempo real, edición al instante y compartida al mismo tiem
     <td>Visual Studio Code</td>
     <td>El programa fue usado en la realización del informe y desarrollo del landingPage</td>
     <td>https://code.visualstudio.com/download </td>
-    
+
   </tr>
 
   <tr>
@@ -1152,7 +1158,6 @@ la comunicación en tiempo real, edición al instante y compartida al mismo tiem
     <td>https://dev.mysql.com/downloads/mysql/ </td>
   </tr>
 </table>
-
 
 ## Product UX/UI Design
 
@@ -1195,10 +1200,11 @@ Parael Ux/Ui Design usamos los siguientes softwares:
   </tr>
 
 
- 
+
 </table>
 
 ## Software Deployment
+
 El software usado para despliege de nuestra aplicaion web fue:
 <table>
   <tr>
@@ -1249,8 +1255,6 @@ a que se puede ver los cambios que realizamos en el código hecho en HTML, CSS y
 
 </table>
 
-
-
 ## Software Documentation
 
 El software usado para la documentacion es el siguiente:
@@ -1275,15 +1279,15 @@ El software usado para la documentacion es el siguiente:
 
 Para el ciclo de vida de desarrollo del proyecto usaremos el sistema que nos ofrece Git que es el control de versiones,
 el cual se irá evidenciando en el Github de nuestra organización, donde podrá visualizar todos los cambios y
-modificaciones realizados por cada miembro del equipo. 
+modificaciones realizados por cada miembro del equipo.
 
 __Link del Repositorio:__ [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
 
-|**Alumno**|**Correo**|**Usuario de GitHub**|
-|---------|--------|-------|
-|Paul Vega |u20201b333@upc.edu.pe|Paul Vega|
-|Brayan Smith|u20211f984@upc.edu.pe|Brys83|
-|Leonardo Taype|u20201e840@upc.edu.pe|Leo2426|
+| **Alumno**     | **Correo**            | **Usuario de GitHub** |
+|----------------|-----------------------|-----------------------|
+| Paul Vega      | u20201b333@upc.edu.pe | Paul Vega             |
+| Brayan Smith   | u20211f984@upc.edu.pe | Brys83                |
+| Leonardo Taype | u20201e840@upc.edu.pe | Leo2426               |
 
 En la siguiente tabla mostramos los repositorios ne nuestra organizacion:
 
@@ -1314,42 +1318,50 @@ En la siguiente tabla mostramos los repositorios ne nuestra organizacion:
   </tr>
 </table>
 
-
 ### 5.1.3. Source Code Style Guide & Conventions
+
 Se usaron las siguientes source style y conventions para el desarrollo de landing page, frontend y backend.
 
 #### LandingPage
+
 * __HTML__
-Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y formato.
-  * Utiliza minúsculas para las etiquetas y atributos HTML.
-  * La indentación debe ser consistente, típicamente con dos o cuatro espacios.
-  * Evita estilos y scripts en línea siempre que sea posible.
+  Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y
+  formato.
+    * Utiliza minúsculas para las etiquetas y atributos HTML.
+    * La indentación debe ser consistente, típicamente con dos o cuatro espacios.
+    * Evita estilos y scripts en línea siempre que sea posible.
 * __CSS__
-Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y formato.
-  * Usa nombres significativos para clases e IDs.
-  * Separa palabras en nombres de clases con guiones (-) estilo kebab-case.
-  * Agrupa propiedades CSS de manera lógica y mantiene una indentación consistente.
+  Sigue el "HTML Style Guide and Coding Conventions" y el "Google HTML/CSS Style Guide" para convenciones de nombres y
+  formato.
+    * Usa nombres significativos para clases e IDs.
+    * Separa palabras en nombres de clases con guiones (-) estilo kebab-case.
+    * Agrupa propiedades CSS de manera lógica y mantiene una indentación consistente.
 * __JavaScript__
-Sigue el "Google JavaScript Style Guide", "MDN JavaScript guidelines", "W3C JavaScript Style Guide" y "Vue Style Guide".
-  * Usa camelCase para nombres de variables y funciones.
-  * Utiliza punto y coma para finalizar declaraciones.
-  * Siempre declara variables con const o let para hacer cumplir el ámbito de bloque.
-  * Evita el uso de variables globales siempre que sea posible.
-  * Mantiene una indentación consistente (típicamente dos o cuatro espacios).
+  Sigue el "Google JavaScript Style Guide", "MDN JavaScript guidelines", "W3C JavaScript Style Guide" y "Vue Style
+  Guide".
+    * Usa camelCase para nombres de variables y funciones.
+    * Utiliza punto y coma para finalizar declaraciones.
+    * Siempre declara variables con const o let para hacer cumplir el ámbito de bloque.
+    * Evita el uso de variables globales siempre que sea posible.
+    * Mantiene una indentación consistente (típicamente dos o cuatro espacios).
+
 #### Escenas de Usuario
+
 * __Gherkin__
-  * Sigue las "Gherkin Conventions for Readable Specifications".
-  Utiliza un lenguaje descriptivo y orientado a negocios en los escenarios de Gherkin.
-  * Mantén los escenarios cortos, centrados y legibles.
-  Usa palabras clave como Given, When, Then, And, But de manera consistente.
+    * Sigue las "Gherkin Conventions for Readable Specifications".
+      Utiliza un lenguaje descriptivo y orientado a negocios en los escenarios de Gherkin.
+    * Mantén los escenarios cortos, centrados y legibles.
+      Usa palabras clave como Given, When, Then, And, But de manera consistente.
+
 #### Backend
+
 * __C#__
-Sigue las "C# Coding Conventions" y las "Microsoft ASP.NET Core Coding Guidelines".
-  * Usa PascalCase para nombres de clases y métodos.
-  * Usa camelCase para nombres de variables y parámetros.
-  * Siempre usa llaves para las declaraciones de flujo de control, incluso para declaraciones de una sola línea.
-  * Mantén métodos y clases enfocados en una sola responsabilidad.
-  * Utiliza nombres significativos y claros para variables, métodos y clases.
+  Sigue las "C# Coding Conventions" y las "Microsoft ASP.NET Core Coding Guidelines".
+    * Usa PascalCase para nombres de clases y métodos.
+    * Usa camelCase para nombres de variables y parámetros.
+    * Siempre usa llaves para las declaraciones de flujo de control, incluso para declaraciones de una sola línea.
+    * Mantén métodos y clases enfocados en una sola responsabilidad.
+    * Utiliza nombres significativos y claros para variables, métodos y clases.
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -1360,7 +1372,14 @@ Arreglar
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
-El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum. Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. El equipo de desarrollo también define los elementos del backlog del sprint y crea un plan detallado para poder completarlos. La reunión suele durar unas pocas horas y participan todos los miembros del equipo Scrum, incluyendo el Scrum Master y el Product Owner. El objetivo principal del Sprint Planning es crear una visión clara y compartida de lo que se va a conseguir durante el Sprint y cómo se va a lograr
+
+El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum.
+Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el
+backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. El equipo de
+desarrollo también define los elementos del backlog del sprint y crea un plan detallado para poder completarlos. La
+reunión suele durar unas pocas horas y participan todos los miembros del equipo Scrum, incluyendo el Scrum Master y el
+Product Owner. El objetivo principal del Sprint Planning es crear una visión clara y compartida de lo que se va a
+conseguir durante el Sprint y cómo se va a lograr
 | Sprint #| Sprint 1|
 |---------|---------|
 |Sprint Planing Background|
@@ -1369,62 +1388,100 @@ El Sprint Planning es un evento o reunión que se realiza al inicio de cada Spri
 |Location| Reunion Virtual(Plataforme Discord)|
 |Prepared By| Paul Vega / Brayan Morales|
 |Attendees (to planning meeting)| Fabiola Becerra/ Paul Vega/ Brayan Morales/Piero Miranda/Leonarde Taype|
-|Sprint 0 Review Summary| Como retrospectiva tenemos que se desarrollo el diseño de la aplicacion web,se definio los user stories,se definio las herrmaientas a usar, se desarrollo los diagramas c4, el diagrama de clases, diagrama de base de datos.|
-|Sprint 0 Retrospective Summary|  Los integrantes notamos cierta descordinacion en el desarrollo de nuestro trabajo.Siendo la causa la mala comunicacion que tuvimos.|
+|Sprint 0 Review Summary| Como retrospectiva tenemos que se desarrollo el diseño de la aplicacion web,se definio los
+user stories,se definio las herrmaientas a usar, se desarrollo los diagramas c4, el diagrama de clases, diagrama de base
+de datos.|
+|Sprint 0 Retrospective Summary| Los integrantes notamos cierta descordinacion en el desarrollo de nuestro
+trabajo.Siendo la causa la mala comunicacion que tuvimos.|
 |Sprint Goals & User Stories||
-|Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing page, así como también la organización e implementación de la documentación.
+|Sprint 1 Goal| Como Startup el Goal de este pirmer Sprint es completar con la implementación y diseño de la landing
+page, así como también la organización e implementación de la documentación.
 |Sprint 1 Velocity| Creación del Landing Page|
 |Sprints of Story Points| 24 Story points|
 
 #### 5.2.1.2. Sprint Backlog 1
-En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas como desarrollar nuevas funcionalidades, corregir errores o mejorar el rendimiento del sitio web. El equipo de desarrollo trabaja en el Sprint Backlog durante el Sprint para completar las tareas y lograr los objetivos del Sprint. Es importante que el equipo tenga en cuenta la prioridad y el valor de las tareas para asegurar que se estén abordando las más importantes para el éxito del proyecto.
-|Sprint #| Sprint 1 | | | |      | | |
+
+En el contexto de las aplicaciones web, el Sprint Backlog puede contener tareas como desarrollar nuevas funcionalidades,
+corregir errores o mejorar el rendimiento del sitio web. El equipo de desarrollo trabaja en el Sprint Backlog durante el
+Sprint para completar las tareas y lograr los objetivos del Sprint. Es importante que el equipo tenga en cuenta la
+prioridad y el valor de las tareas para asegurar que se estén abordando las más importantes para el éxito del proyecto.
+|Sprint #| Sprint 1 | | | | | | |
 |--------|----------|-----|---|----|----|----|----|
 |User Story| Work-Item/Task|
 |Id| Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/In-Process/To-Review/Done)|
-|US21| Visualizar el landing page en diferentes tamaños de dispositivos | US21-1|Visualizar el landing page en diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2 horas| Brayan|Done|
-|US23|Saber sobre los servicios que brindan|US23-1|Saber sobre los servicios que brindan|Como visitante, quiero que el landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
-|US22|Desplazamiento desde encabezado|US22-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
-|US25|Poder enviar un mensaje a la empresa desarrollador|US25-1|Poder enviar un mensaje a la empresa desarrollador|Como visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1 hora|Brayan|Done|
-|US27|Tener una barra de navegación completa y funcional|US27-1|Tener una barra de navegación completa y funcional|Como visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
-|US28|Poder acceder a las redes sociales de la empresa|US28-1|Poder acceder a las redes sociales de la empresaPoder acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la empresa|2 horas|Brayan|Done|
-|US26|Poder ver el sitio web en inglés y español|US26-1|Poder ver el sitio web en inglés y español|Como visitante que no habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
+|US21| Visualizar el landing page en diferentes tamaños de dispositivos | US21-1|Visualizar el landing page en
+diferentes tamaños de dispositivos|Como visitante quiero poder ver el landing page en diferentes tamaños de pantalla|2
+horas| Brayan|Done|
+|US23|Saber sobre los servicios que brindan|US23-1|Saber sobre los servicios que brindan|Como visitante, quiero que el
+landing page me permita ver sobre que brinda la aplicación, para tener estar en cuenta la aplicación|1 hora|Brayan|Done|
+|US22|Desplazamiento desde encabezado|US22-1|Desplazamiento desde encabezado|Como visitante, quiero que las opciones del
+encabezado me muevan en la página, para no hacer scroll siempre.|2 horas|Brayan|Done|
+|US25|Poder enviar un mensaje a la empresa desarrollador|US25-1|Poder enviar un mensaje a la empresa desarrollador|Como
+visitante, quiero enviar mensaje a la empresa para cotizar o recibir más información sobre la aplicación|1
+hora|Brayan|Done|
+|US27|Tener una barra de navegación completa y funcional|US27-1|Tener una barra de navegación completa y funcional|Como
+visitante quiero tener una navegación rápida en el landing page|2 horas|Brayan|Done|
+|US28|Poder acceder a las redes sociales de la empresa|US28-1|Poder acceder a las redes sociales de la empresaPoder
+acceder a las redes sociales de la empresa|Como visitante quiero poder ser direccionado a las redes sociales de la
+empresa|2 horas|Brayan|Done|
+|US26|Poder ver el sitio web en inglés y español|US26-1|Poder ver el sitio web en inglés y español|Como visitante que no
+habla español quiero poder ver la pagina en ingles para navegar la página con normalidad|3 horas|Brayan|Done|
+
 #### 5.2.1.3. Development Evidence for Sprint Review
+
 | Repository                         | Branch | Commit Id | Commit Message         | Commit Message Body | Commited on (Date) |
 |------------------------------------|--------|-----------|------------------------|---------------------|--------------------|
 | ArtSoftt/EasyInventory-LandingPage | main   | 325b178   | refactor(Landing Page) | Fix Landing Page    | 18/09/2023         |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-Debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos realizar los respectivos Tests. No obstante, se está evaluando qué aplicaciones usar para realizar las pruebas y validaciones correspondientes para desarrollar una efectiva aplicación web y que no contenga errores.
+
+Debido a que estamos en la etapa de diseño del prototipo de la aplicación web no podemos realizar los respectivos Tests.
+No obstante, se está evaluando qué aplicaciones usar para realizar las pruebas y validaciones correspondientes para
+desarrollar una efectiva aplicación web y que no contenga errores.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 A continuación, se muestra screenshots del landing page desarrollado y desplegado.
 
-## Home 
+## Home
+
 Esta sera la vista principal de nuestra landing page.
 
 ![Evidence-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/inicio.png)
+
 ## Servicios
+
 En esta sección hablaremos de los servicios y que hacemos como empresa.
 
 ![Evidence-2](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/servicio.png)
+
 ## Membresias
+
 En esta sección el usuario podrá visualizar las membresias que tenemos para cada uno.
 
 ![Evidence-2](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/Membresias.png)
+
 ## Team
+
 En esta sección nos presentaremos con una breve descripción para los usuarios.
 
 ![Evidence-3](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/team1.png)
 ![Evidence-4](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/team2.png)
+
 ## Contacto
+
 En esta sección el usuario podrá contactarnos a nuestro correo.
 
 ![Evidence-5](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/contacto.png)
+
 ## Footer
+
 En esta sección tendremos el pie de pagina dónde el usuario visualizará informacion relevante.
 
 ![Evidence-6](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/Footer.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 Para este sprint se hizo el despliege del landing page que se realizo en GitHub Pages
 <table>
   <tr>
@@ -1439,16 +1496,26 @@ Para este sprint se hizo el despliege del landing page que se realizo en GitHub 
 </table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 El deploymento del landing page se realizó mediante GithubPages.
 
 ![Evidence-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/deployment.png)
 Link del Landing Page: https://artsoftt.github.io/EasyInventory-LandingPage/#beneficios
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación, niveles de participación, progreso del proyecto y más.
+
+Team Collaboration Insights hace referencia a una variedad de datos e información que proporciona información sobre cómo
+un equipo está colaborando y trabajando en conjunto. Esto puede incluir métricas como frecuencia de comunicación,
+niveles de participación, progreso del proyecto y más.
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration1.png)
 ![Collaboration-1](/Docs/Capitulo%20V/5.2%20Landing%20Page%2C%20Services%20%26%20Applications%20Implementation//img/collaboration2.png)
+
 ### 5.2.2. Sprint 2
-En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos llevar a cabo la implementación del diseño realizado en figma de nuestra aplicacion web utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Search, Customers, Provider, Products, shopping y sales .
+
+En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos llevar a cabo la implementación del diseño
+realizado en figma de nuestra aplicacion web utilizando WebStorm como entorno de desarrollo. Esto implica que al
+concluir el Sprint, todas las secciones, ya sea Home, Search, Customers, Provider, Products, shopping y sales .
+
 #### 5.2.2.1.Sprint Planning 2.
 
 <table>
@@ -1475,7 +1542,7 @@ En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos ll
     <td><strong>Location</strong></td>
     <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
   </tr>
-  
+
   <tr>
     <td><strong>Prepared By</strong></td>
     <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
@@ -1537,6 +1604,7 @@ En la fase de nuestro proyecto del desarrollo de la front end, nos propusimos ll
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
+
 A continuación, presentaremos nuestro sprint backlog que se realizo tomando en cuenta las habilidades del equipo.
 <table>
   <tr>
@@ -1706,6 +1774,7 @@ A continuación, presentaremos nuestro sprint backlog que se realizo tomando en 
 </table>
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -1805,21 +1874,27 @@ A continuación, presentaremos nuestro sprint backlog que se realizo tomando en 
 </table>
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
 Despues de completar el sprint 2, lograr implementar y desplegar la seccion del dashboard y vista de perfil.
 **Evidencia:**
-* **NOMBRE DE LA SECCIÓN:** 
-**Imagen 1:** Home
-![Home](./Docs/assets/sprint2/home-sprint2.png)
-En esta parte se puede ver la ejecucion de la front end de nuestra aplicacion werb siendo la vista del home donde muestra resmunes de ventas,provedores y productos
-**Imagen 2:** Product
-![Producto](./Docs/assets/sprint2/products-sprint2.png)
-En esta parte se muestra la vista de productos donde se muestra todos los productos y se puede realizar busquedas de un determinado producto ademas de darnos acceso a la pagina de agregar producto
-**Imagen 3:** Login
-![Perfil](./Docs/assets/sprint2/login-sprint2.png)
-En esta parte se muestra nuestro login de la aplicacion 100% funcional. 
+
+* **NOMBRE DE LA SECCIÓN:**
+  **Imagen 1:** Home
+  ![Home](./Docs/assets/sprint2/home-sprint2.png)
+  En esta parte se puede ver la ejecucion de la front end de nuestra aplicacion werb siendo la vista del home donde
+  muestra resmunes de ventas,provedores y productos
+  **Imagen 2:** Product
+  ![Producto](./Docs/assets/sprint2/products-sprint2.png)
+  En esta parte se muestra la vista de productos donde se muestra todos los productos y se puede realizar busquedas de
+  un determinado producto ademas de darnos acceso a la pagina de agregar producto
+  **Imagen 3:** Login
+  ![Perfil](./Docs/assets/sprint2/login-sprint2.png)
+  En esta parte se muestra nuestro login de la aplicacion 100% funcional.
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "EasyInventory".
+
+En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la
+aplicación web "EasyInventory".
 
 <table> 
   <tr>
@@ -1837,28 +1912,39 @@ En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la 
 </table>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-Para la implementación de nuestra apliacion web, optamos por utilizar Firebase. En este proceso, se creo un proyecto en Firebase, para acceder a los datos se necesita el json de manera local.
 
-**Link de la aplicacion web desplegada:** [EasyInventory]() 
+Para la implementación de nuestra apliacion web, optamos por utilizar Firebase. En este proceso, se creo un proyecto en
+Firebase, para acceder a los datos se necesita el json de manera local.
+
+**Link de la aplicacion web desplegada:** [EasyInventory]()
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
-En esta entrega nuestra meta principal fue el desarrollo de principales funciones como el agregar producto, el perfil del usuario y el Dashboard que fueron realizados haciendo uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript.
-__* Diagramas de Flujo__ 
+
+En esta entrega nuestra meta principal fue el desarrollo de principales funciones como el agregar producto, el perfil
+del usuario y el Dashboard que fueron realizados haciendo uso de diversas herramientas como GitHub, Visual Studio Code,
+WebStorm, HTML, CSS y JavaScript.
+__* Diagramas de Flujo__
 ![Grafico de Barras]()
 Grafico de barras que muestra los commits realizados por el equipo de trabajo que realizo el sprint2.
 ![Grafico de Onda](/Docs/assets/Diagrama-Onda.png)
-En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits.
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el
+repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits.
 ![Diagrama de flujo](/Docs/assets/Diagrama-flujo.png)
 Diagrama de flujo que muestra las ramas trabajadas en el desarrollo de los user stories escogidos en este sprint 2.
 
 ### 5.2.3. Sprint 3
-En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de 21 puntos.
+
+En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación web avanzando a través de las historias
+de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas
+historias de usuario es de 21 puntos.
 <!--Cambiar links-->
-**Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories) 
+**Repositorio:** [https://github.com/orgs/ArtSoftt/repositories](https://github.com/orgs/ArtSoftt/repositories)
 
-**Arsoft Backend Deployed:** [http://pol12345-001-site1.btempurl.com/swagger/index.html](http://pol12345-001-site1.btempurl.com/swagger/index.html) 
-
+**Arsoft Backend Deployed:
+** [http://pol12345-001-site1.btempurl.com/swagger/index.html](http://pol12345-001-site1.btempurl.com/swagger/index.html)
 
 #### 5.2.3.1.Spring Planning 3.
+
 <table>
   <tr>
     <td><strong>Sprint #</strong></td>
@@ -1883,7 +1969,7 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
     <td><strong>Location</strong></td>
     <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
   </tr>
-  
+
   <tr>
     <td><strong>Prepared By</strong></td>
     <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
@@ -1944,6 +2030,7 @@ En el Tercer sprint, comenzamos a desarrollar la backend de nuestra aplicación 
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
+
 presentamos la tabla de control de estado del Sprint con las tareas asignadas a cada miembro de nuestro equipo.
 
 
@@ -2048,7 +2135,7 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
     <td align="center"> Paul Kennedin</td>
     <td align="center"> Done</td>
   </tr>
- 
+
   <tr>
     <td align="center"> TA03 </td>
     <td align="center"> Revision de la arquitectura </td>
@@ -2070,6 +2157,7 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
 </table>
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
+
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -2146,10 +2234,12 @@ presentamos la tabla de control de estado del Sprint con las tareas asignadas a 
 </table>
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
 Aqui se mostrara la ejecucion de nuestra API REST con sus respecdtivos metodos GET,PUT,POST y DELETE
 ![Api](/Docs/assets/sprint3/api.jpg)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
 En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos relacional.
 <!--Agregar Links-->
 <table> 
@@ -2167,34 +2257,40 @@ En el tercer sprint, hemos programado nuestra API REST con nuestra base de datos
   </tr>
 </table>
 
-
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
 <!--Agregar imagenes-->
 ![Imagen del pagina para el despliege]()
 Se puede apreciar la pagina que usamos para el despliege de nuestra backend.
 ![Imagen del api general]()
-Se puede ver todos  los metodos implementados en estre sprint ademas de estar ejcutadose en su propio dominio.
+Se puede ver todos los metodos implementados en estre sprint ademas de estar ejcutadose en su propio dominio.
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
 <!--Agregar imagenes-->
-En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST y DELETE. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
+En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST y DELETE. Para llevar a cabo
+este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas
+de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
 
 ![Cantidad de commits(Grafica de barras)](/Docs//assets//sprint3/graficobarras.png)
 
-En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo. 
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo.
 
 ![commits.png](/Docs//assets/sprint3/total%20commits.png)
 
-En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro tercer sprint.
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el
+repositorio de nuestro tercer sprint.
 
 ![network.png](/Docs/assets/sprint3/network.png)
 
-
-
 ## 5.3. Validation Interviews.
+
 En esta seccion mostramos las entrevistas realizadas a nuestros usuarios objetivos de EasyInventory.
+
 ### 5.3.1. Diseño de Entrevistas.
+
 A continuacion se presentaron los siguientes user flows que se usaron para las entrevistas.
+
 * __User Goal:__ Como usuario deseo registrarse dentro de la aplicación web.
 
 ![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/1.png)
@@ -2229,13 +2325,14 @@ busqueda.
 El usuario se dirige a la opción customer, para luego rellenar los campos pedidos esto actualizara nuestra base de
 datos.
 
-
 * __User Goal:__ Como usuario deseo añadir un producto
   ![img](/Docs/Capitulo%20IV/4.4.%20Web%20Applications%20UX/img/7.png)
 
 El usuario se dirige a la opción product,para luego rellenar los campos necesarios esto provocara ue nos muestre la
 lista de productos.
+
 ### 5.3.2. Registro de Entrevistas.
+
 **Entrevistas**
 **Nombre y Apellido (1 Entrevistado):** Julio Licas
 **Edad:** 41 años
@@ -2251,10 +2348,10 @@ lista de productos.
 
 ![Entrevista](/Docs/assets/sprint3/entrevistas111.png)
 
-
 **URL:**https://upcedupe.sharepoint.com/:v:/s/progra812/EfqCooZUkhhCo-7Q7-1xKr8Bzdi_R3-INgb5T1UO2P6yvA
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
 <Table>
   <tr>
     <td><b>#</b></td>
@@ -2276,7 +2373,7 @@ lista de productos.
     <td>3</td>
     <td>Usability:Libertad y Control</td>
   </tr>
-    
+
   <tr>
     <td>3</td>
     <td>El boton English-Español no realiza nngun evento</td>
@@ -2298,16 +2395,21 @@ lista de productos.
     <td>Usability:Libertad y Control</td>
   </tr>
 
- 
+
 </Table>
 
 ## 5.4. Video About-the-Product
+
 ![imgvideo](/Docs/assets/sprint3/Presentacion%20hoja%20de%20papel%20creativa%20rosado.png)
 
-Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link del
+video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Ee5zcejYmvlClhoaAnCq8IMB-reIqP_8ARl0PdOoS2B7Cw?e=NkSsUC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ### 5.2.4 Sprint 4
-En el cuarto sprint, terminamos de desarrollar la backend de nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de xx puntos.
+
+En el cuarto sprint, terminamos de desarrollar la backend de nuestra aplicación web avanzando a través de las historias
+de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas
+historias de usuario es de xx puntos.
 
 Repositorio: https://github.com/orgs/ArtSoftt/repositories
 
@@ -2337,7 +2439,7 @@ Repositorio: https://github.com/orgs/ArtSoftt/repositories
     <td><strong>Location</strong></td>
     <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
   </tr>
-  
+
   <tr>
     <td><strong>Prepared By</strong></td>
     <td>Vega Sayritupac Paul Kennedin <b>(Lider de grupo)</b></td>
@@ -2396,6 +2498,7 @@ Repositorio: https://github.com/orgs/ArtSoftt/repositories
 </table>
 
 #### 5.2.4.2. Sprint Backlog 4.
+
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -2513,7 +2616,8 @@ Repositorio: https://github.com/orgs/ArtSoftt/repositories
 </table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
-En este punto se presenta los commits realizados por el equipo de trabajo. 
+
+En este punto se presenta los commits realizados por el equipo de trabajo.
 
 <!--Remplazar-->
 <table>
@@ -2570,8 +2674,11 @@ En este punto se presenta los commits realizados por el equipo de trabajo.
 </table>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
 <!--COMPLETAR-->
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+
 A continuacion mostraremos la ejecucion de nuestra aplicacion web en su totalidad.
 
 ![Ejecuacion del api]()
@@ -2579,18 +2686,26 @@ Aqui se puede ver que nuestra api se ejecuta y esta lista para conectarse a la b
 
 ![Ejecuacion de la aplicacion]()
 Aqui se muestra nuestra aplicaion web en ejcuacion implementando la backend y frondend.
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
 <!--Agregar imagenes-->
-En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST, DELETE y la implementacion de agregar un componente. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo ArtSoft:
+En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST, DELETE y la implementacion
+de agregar un componente. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A
+continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del
+equipo ArtSoft:
 
 ![Cantidad de commits(Grafica de barras)]()
 
-En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo. 
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por los miembros del equipo.
 
 ![commits.png]()
 
-En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro tercer sprint.
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el
+repositorio de nuestro tercer sprint.
 
 ![network.png]()
