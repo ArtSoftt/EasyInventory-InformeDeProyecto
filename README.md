@@ -1056,7 +1056,7 @@ node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=8uBQFc3af029shRt-1)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![Context-Diagram](/Docs//Capitulo%20IV/4.6.%20Domain-Drive%20Software%20Architecture/img/structurizr-Container-001.png)
+![Context-Diagram](/Docs/assets/arreglos/C4.drawio.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1093,7 +1093,7 @@ node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=8uBQFc3af029shRt-1)
 
 Se utilizó Vertabelo para la realización del diagrama de la base de datos.
 
-![database](/Docs/Capitulo%20IV/4.8.%20Database%20Design/images/DB-EasyInventory-2023-09-20_22-03.png)
+![database](/Docs/assets/arreglos/database_diagram.png)
 
 # Capitulo V: Product Implementation, Validation & Deployment
 
