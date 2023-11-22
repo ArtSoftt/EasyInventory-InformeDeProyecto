@@ -2700,9 +2700,14 @@ Aqui se muestra nuestra aplicaion web en ejcuacion implementando la backend y fr
 
 ![Ejecuacion del api](/Docs/assets/sprint4/evidencia3.jpg)
 Aqui se muestra el proceso completo de inicio de sesion, siendo este sadisfactorio y redirigiendo a la pagina de home.
+
+![imagen](/Docs/assets/sprint4/evidencia4.jpg)
+Aca se puede apreciar el funcionamiento del almacenamiento de los componentes electronicos en el inventario
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 Como se puede ver se realizo los nuevo endpoitns de login e registro ademas de terminar los anteriores siendo estos los del inventario de productos como el metodo get por id.
-![imagen]()
+![imagen](/Docs/assets/sprint4/documentation1.jpg)
+
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
