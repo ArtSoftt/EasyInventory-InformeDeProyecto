@@ -1220,6 +1220,17 @@ El software usado para despliege de nuestra aplicaion web fue:
     <td>https://pages.github.com/</td>
   </tr>
 
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/330px-Netlify_logo_%282%29.svg.png" width="170" height="60"></td>
+    <td>Netlify</td>
+    <td>Usado para desplegar la frontend</td>
+  <td>https://www.netlify.com/</td>
+  </tr>
+
+  <td><img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="170" height="60"></td>
+  <td>Azure</td>
+  <td>Usado para desplegar la Backend</td>
+  <td>https://azure.microsoft.com/en-us/</td>
+
 </table>
 
 ## Software Testing
@@ -2681,22 +2692,20 @@ En este punto se presenta los commits realizados por el equipo de trabajo.
 
 A continuacion mostraremos la ejecucion de nuestra aplicacion web en su totalidad.
 
-![Ejecuacion del api]()
-Aqui se puede ver que nuestra api se ejecuta y esta lista para conectarse a la backend.
 
-![Ejecuacion de la aplicacion]()
-Aqui se muestra nuestra aplicaion web en ejcuacion implementando la backend y frondend.
+![Ejecuacion de la aplicacion](/Docs/assets/sprint4/evidencia2.jpg)
+Aqui se muestra nuestra aplicaion web en ejcuacion implementando la backend y frontend.Siendo la de la imagen el proceso de registro en la aplicacion.
 
+![Ejecuacion del api](/Docs/assets/sprint4/evidencia3.jpg)
+Aqui se muestra el proceso completo de inicio de sesion, siendo este sadisfactorio y redirigiendo a la pagina de home.
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-<!--Agregar imagenes-->
-En esta entrega, nuestra meta principal fue la implementación de los metodos GET, PUT, POST, DELETE y la implementacion
-de agregar un componente. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub,Rider. A
-continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del
+<!--Agregar imagenes--> 
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del
 equipo ArtSoft:
 
 ![Cantidad de commits(Grafica de barras)]()
