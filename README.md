@@ -1376,7 +1376,12 @@ Se usaron las siguientes source style y conventions para el desarrollo de landin
 
 ### 5.1.4. Software Deployment Configuration
 
-Arreglar
+Para el despliege de nuestra landig page se configuro el github Page de nuestro repositorio de este mismo.Como se muestra a continuacion:
+![](/Docs//assets/sprint4/configurationgithubpage.png)
+Para el despliege del frontend se procedio a crear una cuenta en Netlify.
+![](/Docs//assets/sprint4/configurationNet.png)
+Para el despliege del backend se procedio a crear maquina virtual que contenga nuestra api rest.
+![](/Docs//assets/sprint4/despliege2.png)
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -2684,9 +2689,6 @@ En este punto se presenta los commits realizados por el equipo de trabajo.
   </tr>
 </table>
 
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-
-<!--COMPLETAR-->
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
@@ -2701,6 +2703,15 @@ Aqui se muestra el proceso completo de inicio de sesion, siendo este sadisfactor
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestra backend fue usado Azure usando las siguientes configuraciones. Obteniendo el siguiente link para nuestro api:
+__Link:__ [http://webapieasyinventory.azurewebsites.net/](http://webapieasyinventory.azurewebsites.net/)
+![](/Docs/assets/sprint4/despliege2.png)
+
+Para el despliegue del frontend se usó Netlify. Como se puede apreciar en la imagen el respectivo despliegue fue todo un exitoso.
+(http://webapieasyinventory.azurewebsites.net/)
+![](/Docs/assets/sprint4/despliege1.png)
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
